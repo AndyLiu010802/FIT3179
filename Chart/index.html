@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Australia Mineral Map</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+
+<body>
+    <div id="vis"></div>
+
+    <script type="text/javascript">
+        const spec = {
+            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+            "width": 800,
+            "height": 600,
+            "title": "Australia Mineral Deposits",
+            "layer": [
+                {
+                    "data": {
+                        "url": "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/cleaned_data.json",  // 替换为您的JSON路径
+                        "format": {
+                            "type": "json"
+                        }
+                    },
+                    "mark": "circle",
+                    "encoding": {
+                        "longitude": { "field": "Longitude", "type": "quantitative" },
+                        "latitude": { "field": "Latitude", "type": "quantitative" },
+                        "color": { "field": "Commodity Group", "type": "nominal", "title": "Mineral Type" },
+                        "size": { "field": "Status", "type": "nominal", "legend": null },
+                        "tooltip": [
+                            { "field": "Name", "title": "Mine Name" },
+                            { "field": "State", "title": "State" },
+                            { "field": "Status", "title": "Status" },
+                            { "field": "Commodity Group", "title": "Mineral Group" }
+                        ]
+                    }
+                }
+            ]
+        };
+
+        vegaEmbed('#vis', spec);
+    </script>
+</body>
+
+</html>
