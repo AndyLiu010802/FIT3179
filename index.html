@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Australia Mineral Maps</title>
+    <title>Commodity Distribution Map</title>
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
     <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
@@ -12,118 +12,8 @@
 
 <body>
     <div id="vis"></div>
-    <script type="text/javascript">
-        const spec = {
-            "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-            "title": "Australia Mineral Deposits by State",
-            "vconcat": [
-                {
-                    "title": "Density of Mineral Types by State",
-                    "width": 800,
-                    "height": 300,
-                    "projection": { "type": "mercator" },
-                    "layer": [
-                        {
-                            "data": {
-                                "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/georef-australia-state@public.json",
-                                "format": { "type": "geojson" }
-                            },
-                            "transform": [
-                                {
-                                    "lookup": "properties.STATE_NAME",
-                                    "from": {
-                                        "data": {
-                                            "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/GeoScience_AUS.json"
-                                        },
-                                        "key": "State",
-                                        "fields": ["Commodity Group"]
-                                    }
-                                },
-                                {
-                                    "aggregate": [
-                                        { "op": "count", "as": "mineral_count" }
-                                    ],
-                                    "groupby": ["properties.STATE_NAME"]
-                                },
-                                {
-                                    "filter": "state_select == null || datum.properties.STATE_NAME == state_select"
-                                }
-                            ],
-                            "mark": { "type": "geoshape", "stroke": "white" },
-                            "encoding": {
-                                "color": {
-                                    "field": "mineral_count",
-                                    "type": "quantitative",
-                                    "title": "Number of Mineral Deposits"
-                                },
-                                "tooltip": [
-                                    { "field": "properties.STATE_NAME", "title": "State" },
-                                    { "field": "mineral_count", "title": "Mineral Deposits" }
-                                ]
-                            }
-                        }
-                    ]
-                },
-                {
-                    "title": "Mining Status by State",
-                    "width": 800,
-                    "height": 300,
-                    "projection": { "type": "mercator" },
-                    "layer": [
-                        {
-                            "data": {
-                                "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/georef-australia-state@public.json",
-                                "format": { "type": "geojson" }
-                            },
-                            "transform": [
-                                {
-                                    "lookup": "properties.STATE_NAME",
-                                    "from": {
-                                        "data": {
-                                            "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/GeoScience_AUS.json"
-                                        },
-                                        "key": "State",
-                                        "fields": ["Status"]
-                                    }
-                                },
-                                {
-                                    "aggregate": [
-                                        { "op": "count", "as": "status_count" }
-                                    ],
-                                    "groupby": ["properties.STATE_NAME"]
-                                },
-                                {
-                                    "filter": "state_select == null || datum.properties.STATE_NAME == state_select"
-                                }
-                            ],
-                            "mark": { "type": "geoshape", "stroke": "white" },
-                            "encoding": {
-                                "color": {
-                                    "field": "status_count",
-                                    "type": "quantitative",
-                                    "title": "Number of Mines by Status"
-                                },
-                                "tooltip": [
-                                    { "field": "properties.STATE_NAME", "title": "State" },
-                                    { "field": "status_count", "title": "Mining Status Count" }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "selection": {
-                "state_select": {
-                    "type": "single",
-                    "fields": ["properties.STATE_NAME"],
-                    "on": "click",
-                    "empty": "all",
-                    "bind": "legend"
-                }
-            }
-        };
-        vegaEmbed('#vis', spec);
-    </script>
+
+    <script src="map.js"></script>
 </body>
 
 </html>
