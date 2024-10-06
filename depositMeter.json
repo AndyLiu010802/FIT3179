@@ -1,1262 +1,1262 @@
 [
-{
-    "Date": "Sep-2003",
-    "Value": 1404.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2003",
-    "Value": 646.0,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2003",
-    "Value": 758.0,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2003",
-    "Value": 1326.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2003",
-    "Value": 636.0,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2003",
-    "Value": 690.0,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2004",
-    "Value": 1104.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2004",
-    "Value": 508.0,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2004",
-    "Value": 596.0,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2004",
-    "Value": 1847.1,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2004",
-    "Value": 891.0,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2004",
-    "Value": 956.6,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2004",
-    "Value": 1921.6,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2004",
-    "Value": 897.7,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2004",
-    "Value": 1023.9,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2004",
-    "Value": 1648.5,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2004",
-    "Value": 602.8,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2004",
-    "Value": 1045.6,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2005",
-    "Value": 1431.4,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2005",
-    "Value": 532.8,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2005",
-    "Value": 898.7,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2005",
-    "Value": 1782.9,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2005",
-    "Value": 750.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2005",
-    "Value": 1032.8,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2005",
-    "Value": 1835.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2005",
-    "Value": 735.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2005",
-    "Value": 1099.9,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2005",
-    "Value": 1618.6,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2005",
-    "Value": 581.8,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2005",
-    "Value": 1036.7,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2006",
-    "Value": 1467.1,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2006",
-    "Value": 522.8,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2006",
-    "Value": 944.4,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2006",
-    "Value": 1916.1,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2006",
-    "Value": 778.0,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2006",
-    "Value": 1138.1,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2006",
-    "Value": 2251.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2006",
-    "Value": 812.4,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2006",
-    "Value": 1438.6,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2006",
-    "Value": 2099.7,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2006",
-    "Value": 900.4,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2006",
-    "Value": 1199.3,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2007",
-    "Value": 1784.2,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2007",
-    "Value": 713.2,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2007",
-    "Value": 1071.0,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2007",
-    "Value": 2319.7,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2007",
-    "Value": 814.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2007",
-    "Value": 1505.6,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2007",
-    "Value": 2556.7,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2007",
-    "Value": 1055.8,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2007",
-    "Value": 1500.8,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2007",
-    "Value": 2446.1,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2007",
-    "Value": 970.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2007",
-    "Value": 1476.0,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2008",
-    "Value": 2012.5,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2008",
-    "Value": 737.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2008",
-    "Value": 1275.4,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2008",
-    "Value": 2740.3,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2008",
-    "Value": 1157.0,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2008",
-    "Value": 1583.2,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2008",
-    "Value": 2704.8,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2008",
-    "Value": 1068.9,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2008",
-    "Value": 1636.0,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2008",
-    "Value": 2236.5,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2008",
-    "Value": 792.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2008",
-    "Value": 1444.4,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2009",
-    "Value": 1226.5,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2009",
-    "Value": 338.2,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2009",
-    "Value": 888.3,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2009",
-    "Value": 1719.9,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2009",
-    "Value": 521.2,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2009",
-    "Value": 1198.7,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2009",
-    "Value": 2141.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2009",
-    "Value": 719.0,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2009",
-    "Value": 1422.0,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2009",
-    "Value": 2294.1,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2009",
-    "Value": 857.6,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2009",
-    "Value": 1436.6,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2010",
-    "Value": 1543.3,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2010",
-    "Value": 547.5,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2010",
-    "Value": 995.8,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2010",
-    "Value": 2320.5,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2010",
-    "Value": 930.4,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2010",
-    "Value": 1390.1,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2010",
-    "Value": 2463.2,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2010",
-    "Value": 907.4,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2010",
-    "Value": 1555.8,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2010",
-    "Value": 2382.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2010",
-    "Value": 932.7,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2010",
-    "Value": 1449.3,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2011",
-    "Value": 1978.9,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2011",
-    "Value": 617.2,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2011",
-    "Value": 1361.7,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2011",
-    "Value": 2875.2,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2011",
-    "Value": 979.0,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2011",
-    "Value": 1896.3,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2011",
-    "Value": 3157.9,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2011",
-    "Value": 1037.7,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2011",
-    "Value": 2120.3,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2011",
-    "Value": 2955.6,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2011",
-    "Value": 1008.4,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2011",
-    "Value": 1947.2,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2012",
-    "Value": 2271.6,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2012",
-    "Value": 582.8,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2012",
-    "Value": 1688.8,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2012",
-    "Value": 3023.5,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2012",
-    "Value": 1071.2,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2012",
-    "Value": 1952.4,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2012",
-    "Value": 2714.2,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2012",
-    "Value": 943.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2012",
-    "Value": 1771.1,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2012",
-    "Value": 2179.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2012",
-    "Value": 677.4,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2012",
-    "Value": 1501.6,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2013",
-    "Value": 1534.3,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2013",
-    "Value": 416.7,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2013",
-    "Value": 1117.6,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2013",
-    "Value": 1992.5,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2013",
-    "Value": 692.5,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2013",
-    "Value": 1300.0,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2013",
-    "Value": 1846.3,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2013",
-    "Value": 592.7,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2013",
-    "Value": 1253.6,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2013",
-    "Value": 1764.1,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2013",
-    "Value": 396.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2013",
-    "Value": 1368.1,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2014",
-    "Value": 1148.1,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2014",
-    "Value": 300.0,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2014",
-    "Value": 848.1,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2014",
-    "Value": 1694.8,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2014",
-    "Value": 308.8,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2014",
-    "Value": 1386.0,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2014",
-    "Value": 1669.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2014",
-    "Value": 397.2,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2014",
-    "Value": 1271.8,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2014",
-    "Value": 1613.1,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2014",
-    "Value": 491.9,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2014",
-    "Value": 1121.2,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2015",
-    "Value": 1140.7,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2015",
-    "Value": 242.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2015",
-    "Value": 898.6,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2015",
-    "Value": 1540.2,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2015",
-    "Value": 438.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2015",
-    "Value": 1103.3,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2015",
-    "Value": 1573.5,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2015",
-    "Value": 341.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2015",
-    "Value": 1232.7,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2015",
-    "Value": 1682.3,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2015",
-    "Value": 442.4,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2015",
-    "Value": 1240.2,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2016",
-    "Value": 1301.3,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2016",
-    "Value": 306.6,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2016",
-    "Value": 994.8,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2016",
-    "Value": 1794.6,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2016",
-    "Value": 418.2,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2016",
-    "Value": 1376.4,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2016",
-    "Value": 1796.9,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2016",
-    "Value": 539.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2016",
-    "Value": 1257.9,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2016",
-    "Value": 1842.6,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2016",
-    "Value": 658.7,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2016",
-    "Value": 1183.9,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2017",
-    "Value": 1591.2,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2017",
-    "Value": 484.0,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2017",
-    "Value": 1117.5,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2017",
-    "Value": 2298.7,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2017",
-    "Value": 682.6,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2017",
-    "Value": 1616.2,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2017",
-    "Value": 2294.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2017",
-    "Value": 841.6,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2017",
-    "Value": 1452.4,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2017",
-    "Value": 2175.9,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2017",
-    "Value": 766.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2017",
-    "Value": 1409.8,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2018",
-    "Value": 1853.6,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2018",
-    "Value": 631.7,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2018",
-    "Value": 1221.9,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2018",
-    "Value": 2672.8,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2018",
-    "Value": 971.8,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2018",
-    "Value": 1701.0,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2018",
-    "Value": 2811.6,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2018",
-    "Value": 1041.7,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2018",
-    "Value": 1778.6,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2018",
-    "Value": 2494.5,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2018",
-    "Value": 949.3,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2018",
-    "Value": 1545.2,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2019",
-    "Value": 2215.8,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2019",
-    "Value": 755.4,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2019",
-    "Value": 1460.4,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2019",
-    "Value": 2679.7,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2019",
-    "Value": 923.8,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2019",
-    "Value": 1755.9,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2019",
-    "Value": 2780.3,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2019",
-    "Value": 1115.8,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2019",
-    "Value": 1664.5,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2019",
-    "Value": 2715.2,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2019",
-    "Value": 917.2,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2019",
-    "Value": 1798.0,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2020",
-    "Value": 2252.7,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2020",
-    "Value": 805.7,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2020",
-    "Value": 1447.0,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2020",
-    "Value": 2495.4,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2020",
-    "Value": 850.6,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2020",
-    "Value": 1644.8,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2020",
-    "Value": 2964.8,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2020",
-    "Value": 1048.5,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2020",
-    "Value": 1916.3,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2020",
-    "Value": 2990.2,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2020",
-    "Value": 1031.7,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2020",
-    "Value": 1958.4,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2021",
-    "Value": 2793.8,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2021",
-    "Value": 878.4,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2021",
-    "Value": 1915.4,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2021",
-    "Value": 3644.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2021",
-    "Value": 1107.4,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2021",
-    "Value": 2536.5,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2021",
-    "Value": 3622.6,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2021",
-    "Value": 1160.3,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2021",
-    "Value": 2462.3,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2021",
-    "Value": 3150.3,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2021",
-    "Value": 974.4,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2021",
-    "Value": 2175.9,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2022",
-    "Value": 2654.8,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2022",
-    "Value": 830.2,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2022",
-    "Value": 1824.6,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2022",
-    "Value": 3101.8,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2022",
-    "Value": 869.1,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2022",
-    "Value": 2232.7,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2022",
-    "Value": 3076.9,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2022",
-    "Value": 943.3,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2022",
-    "Value": 2133.6,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2022",
-    "Value": 2851.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2022",
-    "Value": 793.5,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2022",
-    "Value": 2057.5,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2023",
-    "Value": 2432.7,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2023",
-    "Value": 609.8,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2023",
-    "Value": 1822.9,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2023",
-    "Value": 2934.7,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2023",
-    "Value": 818.5,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2023",
-    "Value": 2116.2,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Sep-2023",
-    "Value": 2803.1,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Sep-2023",
-    "Value": 821.8,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Sep-2023",
-    "Value": 1981.3,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Dec-2023",
-    "Value": 2648.8,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Dec-2023",
-    "Value": 745.3,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Dec-2023",
-    "Value": 1903.5,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Mar-2024",
-    "Value": 1985.0,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Mar-2024",
-    "Value": 490.6,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Mar-2024",
-    "Value": 1494.4,
-    "Type": "Existing Deposits"
-  },
-  {
-    "Date": "Jun-2024",
-    "Value": 2591.3,
-    "Type": "Total Deposits"
-  },
-  {
-    "Date": "Jun-2024",
-    "Value": 656.6,
-    "Type": "New Deposits"
-  },
-  {
-    "Date": "Jun-2024",
-    "Value": 1934.7,
-    "Type": "Existing Deposits"
-  }
+    {
+        "Date":"2003-09-01",
+        "Value":1404.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2003-09-01",
+        "Value":758.0,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2003-09-01",
+        "Value":646.0,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2003-12-01",
+        "Value":1326.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2003-12-01",
+        "Value":690.0,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2003-12-01",
+        "Value":636.0,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2004-03-01",
+        "Value":1104.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2004-03-01",
+        "Value":596.0,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2004-03-01",
+        "Value":508.0,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2004-06-01",
+        "Value":1847.1,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2004-06-01",
+        "Value":956.6,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2004-06-01",
+        "Value":891.0,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2004-09-01",
+        "Value":1921.6,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2004-09-01",
+        "Value":1023.9,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2004-09-01",
+        "Value":897.7,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2004-12-01",
+        "Value":1648.5,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2004-12-01",
+        "Value":1045.6,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2004-12-01",
+        "Value":602.8,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2005-03-01",
+        "Value":1431.4,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2005-03-01",
+        "Value":898.7,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2005-03-01",
+        "Value":532.8,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2005-06-01",
+        "Value":1782.9,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2005-06-01",
+        "Value":1032.8,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2005-06-01",
+        "Value":750.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2005-09-01",
+        "Value":1835.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2005-09-01",
+        "Value":1099.9,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2005-09-01",
+        "Value":735.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2005-12-01",
+        "Value":1618.6,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2005-12-01",
+        "Value":1036.7,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2005-12-01",
+        "Value":581.8,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2006-03-01",
+        "Value":1467.1,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2006-03-01",
+        "Value":944.4,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2006-03-01",
+        "Value":522.8,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2006-06-01",
+        "Value":1916.1,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2006-06-01",
+        "Value":1138.1,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2006-06-01",
+        "Value":778.0,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2006-09-01",
+        "Value":2251.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2006-09-01",
+        "Value":1438.6,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2006-09-01",
+        "Value":812.4,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2006-12-01",
+        "Value":2099.7,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2006-12-01",
+        "Value":1199.3,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2006-12-01",
+        "Value":900.4,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2007-03-01",
+        "Value":1784.2,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2007-03-01",
+        "Value":1071.0,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2007-03-01",
+        "Value":713.2,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2007-06-01",
+        "Value":2319.7,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2007-06-01",
+        "Value":1505.6,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2007-06-01",
+        "Value":814.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2007-09-01",
+        "Value":2556.7,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2007-09-01",
+        "Value":1500.8,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2007-09-01",
+        "Value":1055.8,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2007-12-01",
+        "Value":2446.1,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2007-12-01",
+        "Value":1476.0,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2007-12-01",
+        "Value":970.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2008-03-01",
+        "Value":2012.5,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2008-03-01",
+        "Value":1275.4,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2008-03-01",
+        "Value":737.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2008-06-01",
+        "Value":2740.3,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2008-06-01",
+        "Value":1583.2,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2008-06-01",
+        "Value":1157.0,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2008-09-01",
+        "Value":2704.8,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2008-09-01",
+        "Value":1636.0,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2008-09-01",
+        "Value":1068.9,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2008-12-01",
+        "Value":2236.5,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2008-12-01",
+        "Value":1444.4,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2008-12-01",
+        "Value":792.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2009-03-01",
+        "Value":1226.5,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2009-03-01",
+        "Value":888.3,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2009-03-01",
+        "Value":338.2,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2009-06-01",
+        "Value":1719.9,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2009-06-01",
+        "Value":1198.7,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2009-06-01",
+        "Value":521.2,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2009-09-01",
+        "Value":2141.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2009-09-01",
+        "Value":1422.0,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2009-09-01",
+        "Value":719.0,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2009-12-01",
+        "Value":2294.1,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2009-12-01",
+        "Value":1436.6,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2009-12-01",
+        "Value":857.6,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2010-03-01",
+        "Value":1543.3,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2010-03-01",
+        "Value":995.8,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2010-03-01",
+        "Value":547.5,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2010-06-01",
+        "Value":2320.5,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2010-06-01",
+        "Value":1390.1,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2010-06-01",
+        "Value":930.4,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2010-09-01",
+        "Value":2463.2,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2010-09-01",
+        "Value":1555.8,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2010-09-01",
+        "Value":907.4,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2010-12-01",
+        "Value":2382.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2010-12-01",
+        "Value":1449.3,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2010-12-01",
+        "Value":932.7,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2011-03-01",
+        "Value":1978.9,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2011-03-01",
+        "Value":1361.7,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2011-03-01",
+        "Value":617.2,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2011-06-01",
+        "Value":2875.2,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2011-06-01",
+        "Value":1896.3,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2011-06-01",
+        "Value":979.0,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2011-09-01",
+        "Value":3157.9,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2011-09-01",
+        "Value":2120.3,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2011-09-01",
+        "Value":1037.7,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2011-12-01",
+        "Value":2955.6,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2011-12-01",
+        "Value":1947.2,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2011-12-01",
+        "Value":1008.4,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2012-03-01",
+        "Value":2271.6,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2012-03-01",
+        "Value":1688.8,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2012-03-01",
+        "Value":582.8,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2012-06-01",
+        "Value":3023.5,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2012-06-01",
+        "Value":1952.4,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2012-06-01",
+        "Value":1071.2,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2012-09-01",
+        "Value":2714.2,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2012-09-01",
+        "Value":1771.1,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2012-09-01",
+        "Value":943.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2012-12-01",
+        "Value":2179.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2012-12-01",
+        "Value":1501.6,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2012-12-01",
+        "Value":677.4,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2013-03-01",
+        "Value":1534.3,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2013-03-01",
+        "Value":1117.6,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2013-03-01",
+        "Value":416.7,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2013-06-01",
+        "Value":1992.5,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2013-06-01",
+        "Value":1300.0,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2013-06-01",
+        "Value":692.5,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2013-09-01",
+        "Value":1846.3,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2013-09-01",
+        "Value":1253.6,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2013-09-01",
+        "Value":592.7,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2013-12-01",
+        "Value":1764.1,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2013-12-01",
+        "Value":1368.1,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2013-12-01",
+        "Value":396.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2014-03-01",
+        "Value":1148.1,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2014-03-01",
+        "Value":848.1,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2014-03-01",
+        "Value":300.0,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2014-06-01",
+        "Value":1694.8,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2014-06-01",
+        "Value":1386.0,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2014-06-01",
+        "Value":308.8,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2014-09-01",
+        "Value":1669.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2014-09-01",
+        "Value":1271.8,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2014-09-01",
+        "Value":397.2,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2014-12-01",
+        "Value":1613.1,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2014-12-01",
+        "Value":1121.2,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2014-12-01",
+        "Value":491.9,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2015-03-01",
+        "Value":1140.7,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2015-03-01",
+        "Value":898.6,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2015-03-01",
+        "Value":242.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2015-06-01",
+        "Value":1540.2,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2015-06-01",
+        "Value":1103.3,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2015-06-01",
+        "Value":438.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2015-09-01",
+        "Value":1573.5,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2015-09-01",
+        "Value":1232.7,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2015-09-01",
+        "Value":341.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2015-12-01",
+        "Value":1682.3,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2015-12-01",
+        "Value":1240.2,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2015-12-01",
+        "Value":442.4,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2016-03-01",
+        "Value":1301.3,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2016-03-01",
+        "Value":994.8,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2016-03-01",
+        "Value":306.6,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2016-06-01",
+        "Value":1794.6,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2016-06-01",
+        "Value":1376.4,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2016-06-01",
+        "Value":418.2,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2016-09-01",
+        "Value":1796.9,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2016-09-01",
+        "Value":1257.9,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2016-09-01",
+        "Value":539.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2016-12-01",
+        "Value":1842.6,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2016-12-01",
+        "Value":1183.9,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2016-12-01",
+        "Value":658.7,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2017-03-01",
+        "Value":1591.2,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2017-03-01",
+        "Value":1117.5,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2017-03-01",
+        "Value":484.0,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2017-06-01",
+        "Value":2298.7,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2017-06-01",
+        "Value":1616.2,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2017-06-01",
+        "Value":682.6,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2017-09-01",
+        "Value":2294.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2017-09-01",
+        "Value":1452.4,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2017-09-01",
+        "Value":841.6,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2017-12-01",
+        "Value":2175.9,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2017-12-01",
+        "Value":1409.8,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2017-12-01",
+        "Value":766.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2018-03-01",
+        "Value":1853.6,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2018-03-01",
+        "Value":1221.9,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2018-03-01",
+        "Value":631.7,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2018-06-01",
+        "Value":2672.8,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2018-06-01",
+        "Value":1701.0,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2018-06-01",
+        "Value":971.8,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2018-09-01",
+        "Value":2811.6,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2018-09-01",
+        "Value":1778.6,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2018-09-01",
+        "Value":1041.7,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2018-12-01",
+        "Value":2494.5,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2018-12-01",
+        "Value":1545.2,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2018-12-01",
+        "Value":949.3,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2019-03-01",
+        "Value":2215.8,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2019-03-01",
+        "Value":1460.4,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2019-03-01",
+        "Value":755.4,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2019-06-01",
+        "Value":2679.7,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2019-06-01",
+        "Value":1755.9,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2019-06-01",
+        "Value":923.8,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2019-09-01",
+        "Value":2780.3,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2019-09-01",
+        "Value":1664.5,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2019-09-01",
+        "Value":1115.8,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2019-12-01",
+        "Value":2715.2,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2019-12-01",
+        "Value":1798.0,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2019-12-01",
+        "Value":917.2,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2020-03-01",
+        "Value":2252.7,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2020-03-01",
+        "Value":1447.0,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2020-03-01",
+        "Value":805.7,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2020-06-01",
+        "Value":2495.4,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2020-06-01",
+        "Value":1644.8,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2020-06-01",
+        "Value":850.6,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2020-09-01",
+        "Value":2964.8,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2020-09-01",
+        "Value":1916.3,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2020-09-01",
+        "Value":1048.5,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2020-12-01",
+        "Value":2990.2,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2020-12-01",
+        "Value":1958.4,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2020-12-01",
+        "Value":1031.7,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2021-03-01",
+        "Value":2793.8,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2021-03-01",
+        "Value":1915.4,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2021-03-01",
+        "Value":878.4,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2021-06-01",
+        "Value":3644.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2021-06-01",
+        "Value":2536.5,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2021-06-01",
+        "Value":1107.4,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2021-09-01",
+        "Value":3622.6,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2021-09-01",
+        "Value":2462.3,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2021-09-01",
+        "Value":1160.3,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2021-12-01",
+        "Value":3150.3,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2021-12-01",
+        "Value":2175.9,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2021-12-01",
+        "Value":974.4,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2022-03-01",
+        "Value":2654.8,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2022-03-01",
+        "Value":1824.6,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2022-03-01",
+        "Value":830.2,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2022-06-01",
+        "Value":3101.8,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2022-06-01",
+        "Value":2232.7,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2022-06-01",
+        "Value":869.1,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2022-09-01",
+        "Value":3076.9,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2022-09-01",
+        "Value":2133.6,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2022-09-01",
+        "Value":943.3,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2022-12-01",
+        "Value":2851.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2022-12-01",
+        "Value":2057.5,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2022-12-01",
+        "Value":793.5,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2023-03-01",
+        "Value":2432.7,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2023-03-01",
+        "Value":1822.9,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2023-03-01",
+        "Value":609.8,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2023-06-01",
+        "Value":2934.7,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2023-06-01",
+        "Value":2116.2,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2023-06-01",
+        "Value":818.5,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2023-09-01",
+        "Value":2803.1,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2023-09-01",
+        "Value":1981.3,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2023-09-01",
+        "Value":821.8,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2023-12-01",
+        "Value":2648.8,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2023-12-01",
+        "Value":1903.5,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2023-12-01",
+        "Value":745.3,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2024-03-01",
+        "Value":1985.0,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2024-03-01",
+        "Value":1494.4,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2024-03-01",
+        "Value":490.6,
+        "Type":"New Deposits"
+    },
+    {
+        "Date":"2024-06-01",
+        "Value":2591.3,
+        "Type":"Total Deposits"
+    },
+    {
+        "Date":"2024-06-01",
+        "Value":1934.7,
+        "Type":"Existing Deposits"
+    },
+    {
+        "Date":"2024-06-01",
+        "Value":656.6,
+        "Type":"New Deposits"
+    }
 ]
