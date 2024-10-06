@@ -1,86 +1,29 @@
 const chartLine = {
-//     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-//     "data": {
-//       "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179-w10/main/Expenditure.json",
-//       "format": {
-//         "type": "json"
-//       }
-//     },
-//     "transform": [
-//       {
-//         "fold": ["Total Deposits ($M)", "New Deposits ($M)", "Existing Deposits ($M)"],
-//         "as": ["Deposit Type", "Value"]
-//       },
-//       {
-//         "calculate": "toDate(datum.Date)",
-//         "as": "ParsedDate"
-//       }
-//     ],
-//     "mark": "line",
-//     "encoding": {
-//       "x": {
-//         "field": "ParsedDate",
-//         "type": "temporal",
-//         "axis": {"title": "Date"}
-//       },
-//       "y": {
-//         "field": "Value",
-//         "type": "quantitative",
-//         "axis": {"title": "Deposit Value ($M)"}
-//       },
-//       "color": {
-//         "field": "Deposit Type",
-//         "type": "nominal",
-//         "scale": {
-//           "domain": ["Total Deposits ($M)", "New Deposits ($M)", "Existing Deposits ($M)"],
-//           "range": ["#1f77b4", "#ff7f0e", "#2ca02c"]
-//         },
-//         "legend": {"title": "Deposit Type"}
-//       }
-//     }
-//   }
-  
- 
-  
     "$schema": "https://vega.github.io/schema/vega/v5.json",
-    "description": "A basic line chart example.",
+    "description": "A basic line chart example with tooltip and legend.",
     "width": 500,
-    "height": 200,
+    "height": 400,
     "padding": 5,
     
-    "signals": [
+    "data": [
       {
-        "name": "interpolate",
-        "value": "linear",
-        "bind": {
-          "input": "select",
-          "options": [
-            "basis",
-            "cardinal",
-            "catmull-rom",
-            "linear",
-            "monotone",
-            "natural",
-            "step",
-            "step-after",
-            "step-before"
-          ]
-        }
+        "name": "table",
+        "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/Expenditure.json",  
+        "format": {"type": "json"},
+        "transform": [
+          {
+            "type": "formula",
+            "as": "Date",
+            "expr": "toDate(datum.Date)"
+          }
+        ]
       }
     ],
-  
-    "data": {
-        "name": "table",
-      "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179-w10/main/Expenditure.json",
-      "format": {
-        "type": "json"
-      }
-    },
-
-   "scales": [
+    
+    "scales": [
       {
         "name": "x",
-        "type": "point",
+        "type": "time",
         "range": "width",
         "domain": {"data": "table", "field": "Date"}
       },
@@ -95,16 +38,68 @@ const chartLine = {
       {
         "name": "color",
         "type": "ordinal",
-        "range": "category",
-        "domain": {"data": "table", "field": "Type"}
+        "domain": ["Total Deposits ($M)", "New Deposits ($M)", "Existing Deposits ($M)"], 
+        "range": ["#b3ffb6", "#fff2b3", "#ffcfb3"]  
       }
     ],
-  
+    
     "axes": [
-      {"orient": "bottom", "scale": "x"},
-      {"orient": "left", "scale": "y"}
+      {
+        "orient": "bottom", 
+        "scale": "x", 
+        "format": "%Y",
+        "encode": {
+          "labels": {
+            "update": {
+              "fill": {"value": "white"},
+              "fontSize": {"value": 12}
+            }
+          }
+        }
+      },
+      {
+        "orient": "left", 
+        "scale": "y", 
+        "title": "Value",
+        "encode": {
+          "labels": {
+            "update": {
+              "fill": {"value": "white"},
+              "fontSize": {"value": 12}
+            }
+          },
+          "title": {
+            "update": {
+              "fill": {"value": "white"},
+              "fontSize": {"value": 12}
+            }
+          }
+        }
+      }
     ],
-  
+    
+    "legends": [
+      {
+        "fill": "color",
+        "title": "Type",
+        "orient": "right",
+        "encode": {
+          "labels": {
+            "update": {
+              "fill": {"value": "white"},
+              "fontSize": {"value": 12}
+            }
+          },
+          "title": {
+            "update": {
+              "fill": {"value": "white"},
+              "fontSize": {"value": 12}
+            }
+          }
+        }
+      }
+    ],
+    
     "marks": [
       {
         "type": "group",
@@ -121,27 +116,39 @@ const chartLine = {
             "from": {"data": "series"},
             "encode": {
               "enter": {
-                "x": {"scale": "x", "field": "x"},
-                "y": {"scale": "y", "field": "y"},
+                "x": {"scale": "x", "field": "Date"},
+                "y": {"scale": "y", "field": "Value"},
                 "stroke": {"scale": "color", "field": "Type"},
                 "strokeWidth": {"value": 2}
               },
               "update": {
-                "interpolate": {"signal": "interpolate"},
-                "strokeOpacity": {"value": 1}
-              },
-              "hover": {
-                "strokeOpacity": {"value": 0.5}
+                "tooltip": {
+                  "signal": "{'Date': timeFormat(datum.Date, '%Y-%m'), 'Value': datum.Value, 'Type': datum.Type}"
+                }
               }
             }
           }
         ]
       }
-    ]
-  }
+    ],
+    
+    "config": {
+      "axis": {
+        "labelColor": "white",
+        "titleColor": "white",
+        "labelFontSize": 12,
+        "titleFontSize": 12
+      },
+      "legend": {
+        "labelColor": "white",
+        "titleColor": "white",
+        "labelFontSize": 12,
+        "titleFontSize": 12
+      }
+    }
+  };
   
+  vegaEmbed('#lineChart', chartLine).then(function(result) {
   
-
-vegaEmbed('#lineChart', chartLine).then(function(result) {
-}).catch(console.error);
+  }).catch(console.error);
   
