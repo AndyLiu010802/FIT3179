@@ -1,6 +1,6 @@
-const chartLine = {
+const chartLine2 = {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
-    "description": "A basic stacked area chart example with tooltip, legend, and smooth interpolation.",
+    "description": "A basic line chart example with tooltip and legend.",
     "width": 500,
     "height": 400,
     "padding": 5,
@@ -8,7 +8,7 @@ const chartLine = {
     "data": [
       {
         "name": "table",
-        "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/Expenditure.json",  
+        "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/depositMeter.json",  
         "format": {"type": "json"},
         "transform": [
           {
@@ -38,8 +38,8 @@ const chartLine = {
       {
         "name": "color",
         "type": "ordinal",
-       "domain": ["Total Deposits", "New Deposits", "Existing Deposits"], 
-        "range": ["#b3ffb6", "#8c2bbd", "#ffcfb3"]  
+        "domain": ["Total Deposits", "New Deposits", "Existing Deposits"], 
+        "range": ["#b3ffb6", "#fff2b3", "#ffcfb3"]  
       }
     ],
     
@@ -101,40 +101,36 @@ const chartLine = {
     ],
     
     "marks": [
-  {
-    "type": "group",
-    "from": {
-      "facet": {
-        "name": "series",
-        "data": "table",
-        "groupby": "Type",
-        
-      }
-    },
-    "marks": [
       {
-        "type": "area",
-        "from": {"data": "series"},
-        "encode": {
-          "enter": {
-            "x": {"scale": "x", "field": "Date"},
-            "y": {"scale": "y", "field": "Value"},
-            "y2": {"scale": "y", "value": 0},
-            "fill": {"scale": "color", "field": "Type"},
-            "fillOpacity": {"value": 1},
-            "interpolate": {"value": "basis"}
-          },
-          "update": {
-            "tooltip": {
-              "signal": "{'Date': timeFormat(datum.Date, '%Y-%m'), 'Value': datum.Value, 'Type': datum.Type}"
+        "type": "group",
+        "from": {
+          "facet": {
+            "name": "series",
+            "data": "table",
+            "groupby": "Type"
+          }
+        },
+        "marks": [
+          {
+            "type": "line",
+            "from": {"data": "series"},
+            "encode": {
+              "enter": {
+                "x": {"scale": "x", "field": "Date"},
+                "y": {"scale": "y", "field": "Value"},
+                "stroke": {"scale": "color", "field": "Type"},
+                "strokeWidth": {"value": 2}
+              },
+              "update": {
+                "tooltip": {
+                  "signal": "{'Date': timeFormat(datum.Date, '%Y-%m'), 'Value': datum.Value, 'Type': datum.Type}"
+                }
+              }
             }
           }
-        }
+        ]
       }
-    ]
-  }
-]
-,
+    ],
     
     "config": {
       "axis": {
@@ -147,13 +143,12 @@ const chartLine = {
         "labelColor": "white",
         "titleColor": "white",
         "labelFontSize": 12,
-        "titleFontSize": 12,
-      
+        "titleFontSize": 12
       }
     }
-  }
+  };
   
-  vegaEmbed('#lineChart', chartLine).then(function(result) {
+  vegaEmbed('#lineChart2', chartLine2).then(function(result) {
   
   }).catch(console.error);
   

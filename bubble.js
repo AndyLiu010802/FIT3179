@@ -85,6 +85,7 @@ const chartBubble = {
           "title": "Mining Realm",
           "labelColor": "white",
           "titleColor": "white",
+          
           "labelFontSize": 12,
           "titleFontSize": 12
         }
