@@ -38,7 +38,7 @@ const chartLine = {
       {
         "name": "color",
         "type": "ordinal",
-        "domain": ["Total Deposits ($M)", "New Deposits ($M)", "Existing Deposits ($M)"], 
+        "domain": ["Total Deposits", "New Deposits", "Existing Deposits"], 
         "range": ["#b3ffb6", "#fff2b3", "#ffcfb3"]  
       }
     ],
@@ -60,7 +60,7 @@ const chartLine = {
       {
         "orient": "left", 
         "scale": "y", 
-        "title": "Value",
+        "title": "Millions ($)",
         "encode": {
           "labels": {
             "update": {

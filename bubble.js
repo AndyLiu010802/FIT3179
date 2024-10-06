@@ -4,6 +4,7 @@ const chartBubble = {
     "width": 500,
     "height": 400,
     "background": "#585146",
+    "padding": 5,
     "data": {
       "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/industry.json",
       "format": {
@@ -63,7 +64,14 @@ const chartBubble = {
         "title": "Operating Profit ($m)",
         "scale": {
           "domain": [-15000, 120000],  
-          "range": [300, 2000]
+          "range": [300, 3000]
+        },
+        "legend": {
+          "title": "Operating Profit ($m)",
+          "labelColor": "white", 
+          "titleColor": "white", 
+          "labelFontSize": 12,
+          "titleFontSize": 12
         }
       },
       "color": {
@@ -99,8 +107,7 @@ const chartBubble = {
         "labelColor": "white",
         "titleColor": "white",
         "labelFontSize": 12,
-        "titleFontSize": 12,
-        
+        "titleFontSize": 12
       },
       "title": {
         "color": "white",
@@ -108,7 +115,6 @@ const chartBubble = {
       }
     }
   }
-  
   
   vegaEmbed('#chartBubble', chartBubble).then(function(result) {
   }).catch(console.error);
