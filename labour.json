@@ -4,115 +4,115 @@
         "Label": "Coal mining",
         "Total Income ($m)": 53304,
         "Total Expenses ($m)": 57034,
-        "Operating Profit Before Tax ($m)": -3741
+        "Amount": -3741
     },
     {
         "Year": "2020-21",
         "Label": "Oil and gas extraction",
         "Total Income ($m)": 42118,
         "Total Expenses ($m)": 55158,
-        "Operating Profit Before Tax ($m)": -13063
+        "Amount": -13063
     },
     {
         "Year": "2020-21",
         "Label": "Metal ore mining",
         "Total Income ($m)": 214116,
         "Total Expenses ($m)": 103555,
-        "Operating Profit Before Tax ($m)": 111796
+        "Amount": 111796
     },
     {
         "Year": "2020-21",
         "Label": "Non-metallic mineral mining",
         "Total Income ($m)": 8226,
         "Total Expenses ($m)": 7248,
-        "Operating Profit Before Tax ($m)": 874
+        "Amount": 874
     },
     {
         "Year": "2020-21",
         "Label": "Exploration services",
         "Total Income ($m)": 18255,
         "Total Expenses ($m)": 16951,
-        "Operating Profit Before Tax ($m)": 1319
+        "Amount": 1319
     },
     {
         "Year": "2021-22",
         "Label": "Coal mining",
         "Total Income ($m)": 108734,
         "Total Expenses ($m)": 67354,
-        "Operating Profit Before Tax ($m)": 41519
+        "Amount": 41519
     },
     {
         "Year": "2021-22",
         "Label": "Oil and gas extraction",
         "Total Income ($m)": 92009,
         "Total Expenses ($m)": 58821,
-        "Operating Profit Before Tax ($m)": 33281
+        "Amount": 33281
     },
     {
         "Year": "2021-22",
         "Label": "Metal ore mining",
         "Total Income ($m)": 221086,
         "Total Expenses ($m)": 115708,
-        "Operating Profit Before Tax ($m)": 107154
+        "Amount": 107154
     },
     {
         "Year": "2021-22",
         "Label": "Non-metallic mineral mining",
         "Total Income ($m)": 10492,
         "Total Expenses ($m)": 8627,
-        "Operating Profit Before Tax ($m)": 1939
+        "Amount": 1939
     },
     {
         "Year": "2021-22",
         "Label": "Exploration services",
         "Total Income ($m)": 20388,
         "Total Expenses ($m)": 19777,
-        "Operating Profit Before Tax ($m)": 766
+        "Amount": 766
     },
     {
         "Year": "2022-23",
         "Label": "Coal mining",
         "Total Income ($m)": 163013,
         "Total Expenses ($m)": 90574,
-        "Operating Profit Before Tax ($m)": 73315
+        "Amount": 73315
     },
     {
         "Year": "2022-23",
         "Label": "Oil and gas extraction",
         "Total Income ($m)": 149324,
         "Total Expenses ($m)": 73499,
-        "Operating Profit Before Tax ($m)": 76562
+        "Amount": 76562
     },
     {
         "Year": "2022-23",
         "Label": "Metal ore mining",
         "Total Income ($m)": 205821,
         "Total Expenses ($m)": 124998,
-        "Operating Profit Before Tax ($m)": 83041
+        "Amount": 83041
     },
     {
         "Year": "2022-23",
         "Label": "Non-metallic mineral mining",
         "Total Income ($m)": 21816,
         "Total Expenses ($m)": 11778,
-        "Operating Profit Before Tax ($m)": 10427
+        "Amount": 10427
     },
     {
         "Year": "2022-23",
         "Label": "Exploration services",
         "Total Income ($m)": 21590,
         "Total Expenses ($m)": 23150,
-        "Operating Profit Before Tax ($m)": -1440
+        "Amount": -1440
     },
     {
         "Year":"2020-21",
         "Label":"Total Mining",
-        "Operating Profit Before Tax ($m)":0
+        "Amount":0
     },
     {
         "Year":"2021-22",
         "Label":"Total Mining",
-        "Operating Profit Before Tax ($m)":0
+        "Amount":0
     },
     {
         "Year":"2022-23",
