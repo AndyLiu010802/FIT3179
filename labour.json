@@ -2,106 +2,76 @@
     {
         "Year": "2020-21",
         "Label": "Coal mining",
-        "Total Income ($m)": 53304,
-        "Total Expenses ($m)": 57034,
         "Amount": -3741
     },
     {
         "Year": "2020-21",
         "Label": "Oil and gas extraction",
-        "Total Income ($m)": 42118,
-        "Total Expenses ($m)": 55158,
         "Amount": -13063
     },
     {
         "Year": "2020-21",
         "Label": "Metal ore mining",
-        "Total Income ($m)": 214116,
-        "Total Expenses ($m)": 103555,
         "Amount": 111796
     },
     {
         "Year": "2020-21",
         "Label": "Non-metallic mineral mining",
-        "Total Income ($m)": 8226,
-        "Total Expenses ($m)": 7248,
         "Amount": 874
     },
     {
         "Year": "2020-21",
         "Label": "Exploration services",
-        "Total Income ($m)": 18255,
-        "Total Expenses ($m)": 16951,
         "Amount": 1319
     },
     {
         "Year": "2021-22",
         "Label": "Coal mining",
-        "Total Income ($m)": 108734,
-        "Total Expenses ($m)": 67354,
         "Amount": 41519
     },
     {
         "Year": "2021-22",
         "Label": "Oil and gas extraction",
-        "Total Income ($m)": 92009,
-        "Total Expenses ($m)": 58821,
         "Amount": 33281
     },
     {
         "Year": "2021-22",
         "Label": "Metal ore mining",
-        "Total Income ($m)": 221086,
-        "Total Expenses ($m)": 115708,
         "Amount": 107154
     },
     {
         "Year": "2021-22",
         "Label": "Non-metallic mineral mining",
-        "Total Income ($m)": 10492,
-        "Total Expenses ($m)": 8627,
         "Amount": 1939
     },
     {
         "Year": "2021-22",
         "Label": "Exploration services",
-        "Total Income ($m)": 20388,
-        "Total Expenses ($m)": 19777,
         "Amount": 766
     },
     {
         "Year": "2022-23",
         "Label": "Coal mining",
-        "Total Income ($m)": 163013,
-        "Total Expenses ($m)": 90574,
         "Amount": 73315
     },
     {
         "Year": "2022-23",
         "Label": "Oil and gas extraction",
-        "Total Income ($m)": 149324,
-        "Total Expenses ($m)": 73499,
         "Amount": 76562
     },
     {
         "Year": "2022-23",
         "Label": "Metal ore mining",
-        "Total Income ($m)": 205821,
-        "Total Expenses ($m)": 124998,
         "Amount": 83041
     },
     {
         "Year": "2022-23",
         "Label": "Non-metallic mineral mining",
-        "Total Income ($m)": 21816,
-        "Total Expenses ($m)": 11778,
         "Amount": 10427
     },
     {
         "Year": "2022-23",
         "Label": "Exploration services",
-        "Total Income ($m)": 21590,
-        "Total Expenses ($m)": 23150,
         "Amount": -1440
     },
     {
