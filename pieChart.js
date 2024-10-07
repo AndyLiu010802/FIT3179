@@ -34,12 +34,12 @@ const chartPie = {
       },
       {
         "name": "selectedSector",
-        "value": "Coal Mining",
+        "value": "Coal mining",  
         "bind": {
           "input": "select",
-          "options": ["Coal Mining", "Oil and Gas Extraction", "Metal Ore Mining", "Non-Metallic Mineral Mining and Quarrying", "Exploration and Other Mining Support Services"],
-          "labels": ["Coal Mining", "Oil and Gas Extraction", "Metal Ore Mining", "Non-Metallic Mineral Mining and Quarrying", "Exploration and Other Mining Support Services"],
-          "name": "Select Type: "
+          "options": ["Coal mining", "Oil and gas extraction", "Metal ore mining", "Non-metallic mineral mining and quarrying", "Exploration and other mining support services"],
+          "labels": ["Coal mining", "Oil and gas extraction", "Metal ore mining", "Non-metallic mineral mining and quarrying", "Exploration and other mining support services"],
+          "name": "Select Sector: "
         }
       }
     ],
@@ -50,9 +50,9 @@ const chartPie = {
       {
         "filter": "datum.Type == selectedType"
       },
-        {
-            "filter": "datum.Sector == selectedSector"
-        }
+      {
+        "filter": "datum.Sector == selectedSector"
+      }
     ],
     "mark": "arc",
     "encoding": {
@@ -70,3 +70,4 @@ const chartPie = {
   vegaEmbed('#pieChart', chartPie).then(function(result) {
   
   }).catch(console.error);
+  
