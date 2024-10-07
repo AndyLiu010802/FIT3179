@@ -1,7 +1,8 @@
 var waterfall = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 950,
-    "height": 650,
+    "width": 1350,
+    "height": 300,
+    "background": "#6b675b",
     "data": {
       "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/labour.json",
       "format": {
@@ -9,28 +10,20 @@ var waterfall = {
       }
     },
     "params": [
-      {
-        "name": "selectedYear",
-        "value": "2020-21",
-        "bind": {
-          "input": "select",
-          "options": ["2020-21", "2021-22", "2022-23"],
-          "name": "Select Year: "
-        }
-      },
+
       {
         "name": "selectedSector",
         "value": "Coal mining",
         "bind": {
           "input": "select",
-          "options": ["Coal mining", "Oil and gas extraction", "Iron ore mining", "Copper ore mining", "Gold ore mining", "Mineral sand mining"],
+          "options": ["Coal mining", "Oil and gas extraction", "Metal ore mining", "Non-metallic mineral mining and quarrying", "Exploration and other mining support services"],
           "name": "Select Sector: "
         }
       }
     ],
     "transform": [
       {
-        "filter": "datum.Year == selectedYear && datum.Sector == selectedSector"
+        "filter": "datum.Label == 'Total labour costs' && datum.Sector == selectedSector"
       },
       {"window": [{"op": "sum", "field": "Amount", "as": "sum"}]},
     {"window": [{"op": "lead", "field": "Label", "as": "lead"}]},
@@ -39,15 +32,15 @@ var waterfall = {
       "as": "lead"
     },
     {
-      "calculate": "datum.Label === 'Total labour costs' ? 0 : datum.sum - datum.Amount",
+      "calculate": "datum.Label === 'Year' ? 0 : datum.sum - datum.Amount",
       "as": "previous_sum"
     },
     {
-      "calculate": "datum.Label === 'Total labour costs' ? datum.sum : datum.Amount",
+      "calculate": "datum.Label === 'Year' ? datum.sum : datum.Amount",
       "as": "Amount"
     },
     {
-      "calculate": "(datum.Label !== 'Wages and salaries' && datum.Label !== 'Total labour costs' && datum.Amount > 0 ? '+' : '') + datum.Amount",
+      "calculate": "(datum.Label !== 'Wages and salaries' && datum.Label !== 'Year' && datum.Amount > 0 ? '+' : '') + datum.Amount",
       "as": "text_Amount"
     },
     {"calculate": "(datum.sum + datum.previous_sum) / 2", "as": "center"}
@@ -74,7 +67,7 @@ var waterfall = {
         "color": {
           "condition": [
             {
-              "test": "datum.Label === 'Wages and salaries' || datum.Label === 'Total labour costs'",
+              "test": "datum.Label === 'Wages and salaries' || datum.Label === 'Year'",
               "value": "#f7e0b6"
             },
             {"test": "datum.sum < datum.previous_sum", "value": "#f78a64"}
@@ -112,7 +105,7 @@ var waterfall = {
         "color": {
           "condition": [
             {
-              "test": "datum.Label === 'Wages and salaries' || datum.Label === 'Total labour costs'",
+              "test": "datum.Label === 'Wages and salaries' || datum.Label === 'Year'",
               "value": "#725a30"
             }
           ],
