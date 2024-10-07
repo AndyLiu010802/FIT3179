@@ -102,7 +102,7 @@ const chartLine2 = {
             "y2": {"scale": "y", "value": 0},
             "fill": {"scale": "color", "field": "Type"},
             "fillOpacity": {"value": 1},
-            "interpolate": {"value": "basis"}
+            "interpolate": {"value": "step"}
           },
           "update": {
             "tooltip": {
