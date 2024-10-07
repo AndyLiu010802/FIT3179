@@ -88,5 +88,20 @@
         "Year":"2022-23",
         "Label":"Total Mining",
         "Amount":0
+    },
+    {
+        "Year":"2020-21",
+        "Label":"Start",
+        "Amount":0
+    },
+    {
+        "Year":"2021-22",
+        "Label":"Start",
+        "Amount":0
+    },
+    {
+        "Year":"2022-23",
+        "Label":"Start",
+        "Amount":0
     }
 ]

@@ -1,7 +1,7 @@
 var waterfall = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 1350,
-    "height": 300,
+    "height": 500,
     "background": "#6b675b",
     "data": {
       "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/labour.json",
@@ -23,7 +23,7 @@ var waterfall = {
     ],
     "transform": [
       {
-        "filter": "datum.Sector == selectedYear"
+        "filter": "datum.Year == selectedYear"
       },
     {"window": [{"op": "sum", "field": "Amount", "as": "sum"}]},
     {"window": [{"op": "lead", "field": "Label", "as": "lead"}]},
@@ -40,7 +40,7 @@ var waterfall = {
       "as": "Amount"
     },
     {
-      "calculate": "(datum.Label !== 'Coal mining' && datum.Label !== 'Total Mining' && datum.Amount > 0 ? '+' : '') + datum.Amount",
+      "calculate": "(datum.Label !== 'Begin' && datum.Label !== 'Total Mining' && datum.Amount > 0 ? '+' : '') + datum.Amount",
       "as": "text_Amount"
     },
     {"calculate": "(datum.sum + datum.previous_sum) / 2", "as": "center"}
@@ -66,7 +66,7 @@ var waterfall = {
         "color": {
           "condition": [
             {
-              "test": "datum.Label === 'Coal mining' || datum.Label === 'Total Mining'",
+              "test": "datum.Label === 'Begin' || datum.Label === 'Total Mining'",
               "value": "#f7e0b6"
             },
             {"test": "datum.sum < datum.previous_sum", "value": "#f78a64"}
@@ -103,7 +103,7 @@ var waterfall = {
         "text": {"field": "text_Amount", "type": "nominal"},
         "color": {
           "scale": {
-          "domain": ["Coal mining", "Oil and gas extraction", "Metal ore mining", "Non-metallic mineral mining", "Exploration services"],
+          "domain": ["Begin", "Oil and gas extraction", "Metal ore mining", "Non-metallic mineral mining", "Exploration services"],
           "range": ["#d3fc81", "#fc81a2", "#81fc9c", "#9181fc", "#81f6fc"] 
         },
         }
