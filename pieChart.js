@@ -3,7 +3,7 @@ const chartPie = {
     "description": "Pie chart displaying income and expense data by year, type, and sector.",
     "width": 350,
     "height": 300,
-    "padding": { "top": 20, "left": 10, "right": 20, "bottom": 50 },
+    "padding": { "top": 20, "left": 140, "right": 20, "bottom": 80 },
     "background": "#585146",
     "data": {
       "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/incomeExpense.json",
@@ -22,7 +22,6 @@ const chartPie = {
           "name": "Select Year: "
         }
       },
-      
       {
         "name": "selectedDescription",
         "value": "Sales of goods",
@@ -84,20 +83,31 @@ const chartPie = {
       {
         "filter": "datum.Year == selectedYear"
       },
-     
       {
         "filter": "datum.Description == selectedDescription"
       }
     ],
-    "mark": "arc",
-  
+    "mark": {
+      "type": "arc",
+      
+    },
     "encoding": {
       "theta": { "field": "Amount", "type": "quantitative" },
-      "color": { "field": "Sector", "type": "nominal",  "scale": {
-        "domain": ["Coal mining", "Oil and gas extraction", "Metal ore mining", "Non-metallic mineral mining and quarrying","Exploration and other mining support services"],
-        "range": ["#d3fc81", "#fc81a2", "#81fc9c", "#9181fc", "#81f6fc"] 
-      },},
-      "legend": null ,
+      "color": {
+        "field": "Sector",
+        "type": "nominal",
+        "scale": {
+          "domain": [
+            "Coal mining",
+            "Oil and gas extraction",
+            "Metal ore mining",
+            "Non-metallic mineral mining and quarrying",
+            "Exploration and other mining support services"
+          ],
+          "range": ["#d3fc81", "#fc81a2", "#81fc9c", "#9181fc", "#81f6fc"]
+        },
+        "legend": null
+      },
       "tooltip": [
         { "field": "Description", "type": "nominal", "title": "Category" },
         { "field": "Amount", "type": "quantitative", "title": "Amount" },
@@ -110,3 +120,4 @@ const chartPie = {
   vegaEmbed('#pieChart', chartPie).then(function(result) {
   
   }).catch(console.error);
+  
