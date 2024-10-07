@@ -1,8 +1,9 @@
 const chartPie = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Pie chart displaying income and expense data by year, type, and sector.",
-    "width": 450,
-    "height": 400,
+    "width": 400,
+    "height": 300,
+   "padding": { "top": 0, "left": 10, "right": 200, "bottom": 50 },
     "background": "#585146",
     "data": {
       "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/incomeExpense.json",
@@ -26,8 +27,8 @@ const chartPie = {
         "value": "income",
         "bind": {
           "input": "select",
-          "options": ["income", "expense", "other"],
-          "labels": ["Income", "Expense", "Other"],
+          "options": ["income", "expense"],
+          "labels": ["Income", "Expense"],
           "name": "Select Type: "
         }
       },

@@ -1538,5 +1538,145 @@
         "Amount": 3921,
         "Type": "expense",
         "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 48266.0,
+        "Type": "income",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 5514.0,
+        "Type": "income",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 126.0,
+        "Type": "income",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Amount reimbursed under fuel tax credits",
+        "Year": "2020-21",
+        "Amount": 0.0,
+        "Type": "income",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 55733.0,
+        "Type": "income",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 1565.0,
+        "Type": "income",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 20.0,
+        "Type": "income",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Amount reimbursed under fuel tax credits",
+        "Year": "2020-21",
+        "Amount": 0.0,
+        "Type": "income",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 198697.0,
+        "Type": "income",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 8156.0,
+        "Type": "income",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 1221.0,
+        "Type": "income",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Amount reimbursed under fuel tax credits",
+        "Year": "2020-21",
+        "Amount": 1506.0,
+        "Type": "income",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 7099.0,
+        "Type": "income",
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 815.0,
+        "Type": "income",
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 163.0,
+        "Type": "income",
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Amount reimbursed under fuel tax credits",
+        "Year": "2020-21",
+        "Amount": 97.0,
+        "Type": "income",
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 2745.0,
+        "Type": "income",
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 12763.0,
+        "Type": "income",
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 341.0,
+        "Type": "income",
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Amount reimbursed under fuel tax credits",
+        "Year": "2020-21",
+        "Amount": 130.0,
+        "Type": "income",
+        "Sector": "Exploration and other mining support services"
     }
 ]
