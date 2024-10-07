@@ -42,7 +42,29 @@
             <div id="vis-compare2"></div>
         </div>
     </div>
+    <div id="chartLines" style="display: flex; padding: 10px;">
+        <div>
+            <h2>Mineral exploration expenditure ($m) </h2>
+            <p style="padding-right: 150px;">In the second quarter of June 2024, the expenditure allocated for
+                exploration activities ascended to
+                $1.01 billion, signifying an 11% augmentation in comparison to the preceding quarter. This trend
+                underscores an escalating commitment to investments in resource exploration, especially in geographic
+                locales such as Queensland and Western Australia, where base metals including nickel, silver, and zinc
+                experienced a notable intensification of exploratory endeavors.</p>
+            <div id="lineChart"></div>
+        </div>
+        <div>
+            <h2>Mineral exploration drill meters (m) </h2>
+            <p style="padding-right: 150px;">The total meters drilled for mineral exploration in the second quarter of
+                June 2024 amounted to 1.6 million meters, reflecting a 10% increase from the previous quarter. This
+                growth is indicative of the heightened exploration activities in the mining sector, particularly in
+                regions such as Western Australia and Queensland, where the exploration of base metals and precious
+                metals
+                has been a focal point.</p>
+            <div id="lineChart2"></div>
 
+        </div>
+    </div>
     <!-- Radar chart -->
     <div class="chart radar">
         <h2>Key Data of Mining by State and Territories</h2>
@@ -135,14 +157,15 @@
 
             </div>
         </div>
-        <div id="chartBubble"></div>
-        <div id="lineChart"></div>
-        <div id="lineChart2"></div>
 
+
+        <div id="chartBubble"></div>
+        <div id="pieChart"></div>
 
     </div>
 
     <script src="map.js"></script>
+    <script src="pieChart.js"></script>
     <script src="lineChart.js"></script>
     <script src="stateMap1.js"></script>
     <script src="stateMap2.js"></script>
