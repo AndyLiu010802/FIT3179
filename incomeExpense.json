@@ -84,48 +84,6 @@
         "Sector": "Coal mining"
     },
     {
-        "Description": "Total sales and service income",
-        "Year": "2020-21",
-        "Amount": 53906,
-        "Type": "income",
-        "Sector": "Coal mining"
-    },
-    {
-        "Description": "Total sales and service income",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Coal mining"
-    },
-    {
-        "Description": "Total sales and service income",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Coal mining"
-    },
-    {
-        "Description": "Total funding from government for operational costs",
-        "Year": "2020-21",
-        "Amount": 998,
-        "Type": "expense",
-        "Sector": "Coal mining"
-    },
-    {
-        "Description": "Total funding from government for operational costs",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Coal mining"
-    },
-    {
-        "Description": "Total funding from government for operational costs",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Coal mining"
-    },
-    {
         "Description": "Interest income",
         "Year": "2020-21",
         "Amount": 522,
@@ -162,27 +120,6 @@
     },
     {
         "Description": "Other income",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Coal mining"
-    },
-    {
-        "Description": "Total income",
-        "Year": "2020-21",
-        "Amount": 53304,
-        "Type": "income",
-        "Sector": "Coal mining"
-    },
-    {
-        "Description": "Total income",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Coal mining"
-    },
-    {
-        "Description": "Total income",
         "Year": "2022-23",
         "Amount": 0,
         "Type": "income",
@@ -504,27 +441,6 @@
         "Sector": "Coal mining"
     },
     {
-        "Description": "Total expenses",
-        "Year": "2020-21",
-        "Amount": 57034,
-        "Type": "expense",
-        "Sector": "Coal mining"
-    },
-    {
-        "Description": "Total expenses",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Coal mining"
-    },
-    {
-        "Description": "Total expenses",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Coal mining"
-    },
-    {
         "Description": "Employment at end June",
         "Year": "2020-21",
         "Amount": 42521,
@@ -609,48 +525,6 @@
         "Sector": "Oil and gas extraction"
     },
     {
-        "Description": "Total sales and service income",
-        "Year": "2020-21",
-        "Amount": 152698,
-        "Type": "income",
-        "Sector": "Oil and gas extraction"
-    },
-    {
-        "Description": "Total sales and service income",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Oil and gas extraction"
-    },
-    {
-        "Description": "Total sales and service income",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Oil and gas extraction"
-    },
-    {
-        "Description": "Total funding from government for operational costs",
-        "Year": "2020-21",
-        "Amount": 818,
-        "Type": "expense",
-        "Sector": "Oil and gas extraction"
-    },
-    {
-        "Description": "Total funding from government for operational costs",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Oil and gas extraction"
-    },
-    {
-        "Description": "Total funding from government for operational costs",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Oil and gas extraction"
-    },
-    {
         "Description": "Interest income",
         "Year": "2020-21",
         "Amount": 1465,
@@ -687,27 +561,6 @@
     },
     {
         "Description": "Other income",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Oil and gas extraction"
-    },
-    {
-        "Description": "Total income",
-        "Year": "2020-21",
-        "Amount": 163013,
-        "Type": "income",
-        "Sector": "Oil and gas extraction"
-    },
-    {
-        "Description": "Total income",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Oil and gas extraction"
-    },
-    {
-        "Description": "Total income",
         "Year": "2022-23",
         "Amount": 0,
         "Type": "income",
@@ -1029,27 +882,6 @@
         "Sector": "Oil and gas extraction"
     },
     {
-        "Description": "Total expenses",
-        "Year": "2020-21",
-        "Amount": 90574,
-        "Type": "expense",
-        "Sector": "Oil and gas extraction"
-    },
-    {
-        "Description": "Total expenses",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Oil and gas extraction"
-    },
-    {
-        "Description": "Total expenses",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Oil and gas extraction"
-    },
-    {
         "Description": "Employment at end June",
         "Year": "2020-21",
         "Amount": 17293,
@@ -1134,48 +966,6 @@
         "Sector": "Metal ore mining"
     },
     {
-        "Description": "Total sales and service income",
-        "Year": "2020-21",
-        "Amount": 57318,
-        "Type": "income",
-        "Sector": "Metal ore mining"
-    },
-    {
-        "Description": "Total sales and service income",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Metal ore mining"
-    },
-    {
-        "Description": "Total sales and service income",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Metal ore mining"
-    },
-    {
-        "Description": "Total funding from government for operational costs",
-        "Year": "2020-21",
-        "Amount": 93,
-        "Type": "expense",
-        "Sector": "Metal ore mining"
-    },
-    {
-        "Description": "Total funding from government for operational costs",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Metal ore mining"
-    },
-    {
-        "Description": "Total funding from government for operational costs",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Metal ore mining"
-    },
-    {
         "Description": "Interest income",
         "Year": "2020-21",
         "Amount": 646,
@@ -1212,27 +1002,6 @@
     },
     {
         "Description": "Other income",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Metal ore mining"
-    },
-    {
-        "Description": "Total income",
-        "Year": "2020-21",
-        "Amount": 42118,
-        "Type": "income",
-        "Sector": "Metal ore mining"
-    },
-    {
-        "Description": "Total income",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Metal ore mining"
-    },
-    {
-        "Description": "Total income",
         "Year": "2022-23",
         "Amount": 0,
         "Type": "income",
@@ -1512,27 +1281,6 @@
         "Sector": "Metal ore mining"
     },
     {
-        "Description": "Total expenses",
-        "Year": "2020-21",
-        "Amount": 55158,
-        "Type": "expense",
-        "Sector": "Metal ore mining"
-    },
-    {
-        "Description": "Total expenses",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Metal ore mining"
-    },
-    {
-        "Description": "Total expenses",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Metal ore mining"
-    },
-    {
         "Description": "Employment at end June",
         "Year": "2020-21",
         "Amount": 36823,
@@ -1575,48 +1323,6 @@
         "Sector": "Iron ore mining"
     },
     {
-        "Description": "Total sales and service income",
-        "Year": "2020-21",
-        "Amount": 156044,
-        "Type": "income",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Total sales and service income",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Total sales and service income",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Total funding from government for operational costs",
-        "Year": "2020-21",
-        "Amount": 1041,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Total funding from government for operational costs",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Total funding from government for operational costs",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
         "Description": "Interest income",
         "Year": "2020-21",
         "Amount": 273,
@@ -1653,27 +1359,6 @@
     },
     {
         "Description": "Other income",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Total income",
-        "Year": "2020-21",
-        "Amount": 159405,
-        "Type": "income",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Total income",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Total income",
         "Year": "2022-23",
         "Amount": 0,
         "Type": "income",
@@ -1950,27 +1635,6 @@
         "Year": "2022-23",
         "Amount": 0,
         "Type": "other",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Total expenses",
-        "Year": "2020-21",
-        "Amount": 61314,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Total expenses",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Total expenses",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
         "Sector": "Iron ore mining"
     }
 ]
