@@ -2,7 +2,7 @@ const chartPie = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Pie chart showing income and expense details.",
     "data": {
-      "url": "path_to_income_expense_data_with_type.json",
+      "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179-w10/main/pieChart.json",
       "format": {
         "type": "json"
       }
