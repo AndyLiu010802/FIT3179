@@ -4,7 +4,7 @@ const chartPie = {
     "width": 350,
     "height": 300,
     "padding": { "top": 20, "left": 140, "right": 20, "bottom": 80 },
-    "background": "#585146",
+    "background": "#6b675b",
     "data": {
       "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/incomeExpense.json",
       "format": {

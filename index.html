@@ -21,156 +21,222 @@
     <h1 class="title">Australian Mineral and Economic Contribution</h1>
 
 
+    <div style="padding: 40px;">
+        <!-- Map -->
+        <div class="map-1 chart" style=" margin-bottom: 100px; ">
+            <h2>Australia Mining Commodity Distribution</h2>
+            <div style="display: flex;">
+                <p style="padding-right:100px;">In <a
+                        href="https://www.industry.gov.au/sites/default/files/2023-06/critical-minerals-strategy-2023-2030.pdf">Australia's
+                        Critical Minerals Strategy 2023</a>, the country is committed to harnessing the country's
+                    abundant
+                    mineral resources for renewable energy and industrial electrification, thereby driving a global
+                    shift to
+                    “Net Zero Emissions Net Zero Emissions”. As a major producer of lithium, nickel, cobalt and rare
+                    earth
+                    elements (REEs), Australia supplies key components for batteries, electric vehicles (EVs), energy
+                    storage
+                    systems, wind turbines and electric vehicle motors.
 
-    <!-- Map -->
-    <div class="map-1 chart">
-        <h2>Australia Mining Commodity Distribution</h2>
-        <p>In <a
-                href="https://www.industry.gov.au/sites/default/files/2023-06/critical-minerals-strategy-2023-2030.pdf">Australia's
-                Critical Minerals Strategy 2023</a>, the country is committed to harnessing the country's abundant
-            mineral resources for renewable energy and industrial electrification, thereby driving a global shift to
-            “Net Zero Emissions Net Zero Emissions”. As a major producer of lithium, nickel, cobalt and rare earth
-            elements (REEs), Australia supplies key components for batteries, electric vehicles (EVs), energy storage
-            systems, wind turbines and electric vehicle motors.
-
-        </p>
-        <button id="switchButton">Switch to Comparison View</button>
-        <div id="vis" style="display: block;"></div>
-        <div id="vis-compare">
-            <div id="vis-compare1"></div>
-
-            <div id="vis-compare2"></div>
-        </div>
-    </div>
-    <div id="chartLines" style="display: flex; padding: 10px;">
-        <div>
-            <h2>Mineral exploration expenditure ($m) </h2>
-            <p style="padding-right: 150px;">In the second quarter of June 2024, the expenditure allocated for
-                exploration activities ascended to
-                $1.01 billion, signifying an 11% augmentation in comparison to the preceding quarter. This trend
-                underscores an escalating commitment to investments in resource exploration, especially in geographic
-                locales such as Queensland and Western Australia, where base metals including nickel, silver, and zinc
-                experienced a notable intensification of exploratory endeavors.</p>
-            <div id="lineChart"></div>
-        </div>
-        <div>
-            <h2>Mineral exploration drill meters (m) </h2>
-            <p style="padding-right: 150px;">The total meters drilled for mineral exploration in the second quarter of
-                June 2024 amounted to 1.6 million meters, reflecting a 10% increase from the previous quarter. This
-                growth is indicative of the heightened exploration activities in the mining sector, particularly in
-                regions such as Western Australia and Queensland, where the exploration of base metals and precious
-                metals
-                has been a focal point.</p>
-            <div id="lineChart2"></div>
-
-        </div>
-    </div>
-    <!-- Radar chart -->
-    <div class="chart radar">
-        <h2>Key Data of Mining by State and Territories</h2>
-        <p>The data span from 2020-21 to 2022-23, coinciding with the COVID-19 post-pandemic period. After
-            Australia's JobKeeper and government programs to stimulate the economy have led to year-on-year rises in
-            employment.
-            </br>
-            </br>
-            Western Australia is more dependent on the mining and resources sector for employment and income growth.
-            Australia's demand for minerals from this region has surged, contributing to the region's economic growth.
-            This has resulted in Western Australia having the highest mining incomes and employment in the country.</p>
-
-        <div class="tab-container">
-            <div class="tab active" data-sector="All">All Sector</div>
-            <div class="tab" data-sector="Employment at end of June">Employment at end of June (no.)</div>
-            <div class="tab" data-sector="Wages and salaries">Wages and salaries ($m)</div>
-            <div class="tab" data-sector="Sales and service income">Sales and service income ($m)</div>
-        </div>
-
-        <div style="display: flex; justify-content: center; margin-top: 20px;">
-            <div style="display: flex; align-items: center; margin-right: 20px;">
-                <div
-                    style="width: 20px; height: 20px; border-radius: 50%; background-color:#3b7dc4; margin-right: 8px;">
-                </div>
-                <span>Employment at end of June</span>
+                </p>
+                <img src="commodity.png" alt="commodity" style="width: 50%; height: 50%;" />
             </div>
-            <div style="display: flex; align-items: center; margin-right: 20px;">
-                <div
-                    style="width: 20px; height: 20px; border-radius: 50%; background-color: #cf4730; margin-right: 8px;">
-                </div>
-                <span>Wages and salaries</span>
-            </div>
-            <div style="display: flex; align-items: center;">
-                <div
-                    style="width: 20px; height: 20px; border-radius: 50%; background-color: #6ca13b; margin-right: 8px;">
-                </div>
-                <span>Sales and service income</span>
+            <button id="switchButton">Switch to Comparison View</button>
+            <div id="vis" style="display: block;"></div>
+            <div id="vis-compare">
+                <div id="vis-compare1"></div>
+
+                <div id="vis-compare2" style="padding-left: 130px;"></div>
             </div>
         </div>
-
-        <div class="chart-container">
-            <div id="chart1">
-                <div id="chartSpec"></div>
-                <div class="region-select">
-                    <label for="region">Select Region: </label>
-                    <select id="region">
-                        <option value="New South Wales" selected>New South Wales</option>
-                        <option value="Victoria">Victoria</option>
-                        <option value="Queensland">Queensland</option>
-                        <option value="South Australia">South Australia</option>
-                        <option value="Western Australia">Western Australia</option>
-                        <option value="Tasmania">Tasmania</option>
-                        <option value="Northern Territory">Northern Territory</option>
-                    </select>
-                </div>
-
-            </div>
-
-            <div id="chart2">
-                <div id="chartSpec2"></div>
-                <div class="region-select2">
-                    <label for="region2">Select Region: </label>
-                    <select id="region2">
-                        <option value="New South Wales">New South Wales</option>
-                        <option value="Victoria" selected>Victoria</option>
-                        <option value="Queensland">Queensland</option>
-                        <option value="South Australia">South Australia</option>
-                        <option value="Western Australia">Western Australia</option>
-                        <option value="Tasmania">Tasmania</option>
-                        <option value="Northern Territory">Northern Territory</option>
-                    </select>
-                </div>
-
-            </div>
-
-            <div id="chart3">
-                <div id="chartSpec3"></div>
-                <div class="region-select3">
-                    <label for="region3">Select Region: </label>
-                    <select id="region3">
-                        <option value="New South Wales">New South Wales</option>
-                        <option value="Victoria">Victoria</option>
-                        <option value="Queensland" selected>Queensland</option>
-                        <option value="South Australia">South Australia</option>
-                        <option value="Western Australia">Western Australia</option>
-                        <option value="Tasmania">Tasmania</option>
-                        <option value="Northern Territory">Northern Territory</option>
-                    </select>
-                </div>
-
-            </div>
-        </div>
-        <div style="display: flex;">
+        <div id="chartLines" style="display: flex; padding: 10px; margin-top:35px; margin-bottom: 35px;">
             <div>
-                <h2>Mining Industry Financial Performance</h2>
-                <div id="chartBubble"></div>
+                <h2>Mineral exploration expenditure ($m) </h2>
+                <p style="padding-right: 150px;">In the second quarter of June 2024, the expenditure allocated for
+                    exploration activities ascended to
+                    $1.01 billion, signifying an 11% augmentation in comparison to the preceding quarter. This trend
+                    underscores an escalating commitment to investments in resource exploration, especially in
+                    geographic
+                    locales such as Queensland and Western Australia, where base metals including nickel, silver,
+                    and
+                    zinc
+                    experienced a notable intensification of exploratory endeavors.<br /> <br /></p>
+                <div id="lineChart"></div>
             </div>
             <div>
-                <h2>Detailed Financial Performance Category</h2>
-                <div id="pieChart"></div>
+                <h2>Mineral exploration drill meters (m) </h2>
+                <p style="padding-right: 150px;">The total meters drilled for mineral exploration in the second
+                    quarter
+                    of
+                    June 2024 amounted to 1.6 million meters, reflecting a 10% increase from the previous quarter.
+                    This
+                    growth is indicative of the heightened exploration activities in the mining sector, particularly
+                    in
+                    regions such as Western Australia and Queensland, where the exploration of base metals and
+                    precious
+                    metals
+                    has been a focal point.</p>
+                <div id="lineChart2"></div>
+
             </div>
         </div>
+        <!-- Radar chart -->
+        <div class="chart radar" style="margin-top:35px; margin-bottom: 35px;">
+            <h2>Key Data of Mining by State and Territories</h2>
+            <div style="display: flex;">
+                <p style="padding-right:100px;">The data span from 2020-21 to 2022-23, coinciding with the COVID-19
+                    post-pandemic period. After
+                    Australia's JobKeeper and government programs to stimulate the economy have led to year-on-year
+                    rises in
+                    employment.
+                    </br>
+                    </br>
+                    Western Australia is more dependent on the mining and resources sector for employment and income
+                    growth.
+                    Australia's demand for minerals from this region has surged, contributing to the region's economic
+                    growth.
+                    This has resulted in Western Australia having the highest mining incomes and employment in the
+                    country.
+                </p>
+                <img src="mining.png" alt="mining" style="width: 50%; height: 50%;" />
+            </div>
+            <div class="tab-container">
+                <div class="tab active" data-sector="All">All Sector</div>
+                <div class="tab" data-sector="Employment at end of June">Employment at end of June (no.)</div>
+                <div class="tab" data-sector="Wages and salaries">Wages and salaries ($m)</div>
+                <div class="tab" data-sector="Sales and service income">Sales and service income ($m)</div>
+            </div>
 
+            <div style="display: flex; justify-content: center; margin-top: 20px;">
+                <div style="display: flex; align-items: center; margin-right: 20px;">
+                    <div
+                        style="width: 20px; height: 20px; border-radius: 50%; background-color:#3b7dc4; margin-right: 8px;">
+                    </div>
+                    <span>Employment at end of June</span>
+                </div>
+                <div style="display: flex; align-items: center; margin-right: 20px;">
+                    <div
+                        style="width: 20px; height: 20px; border-radius: 50%; background-color: #cf4730; margin-right: 8px;">
+                    </div>
+                    <span>Wages and salaries</span>
+                </div>
+                <div style="display: flex; align-items: center;">
+                    <div
+                        style="width: 20px; height: 20px; border-radius: 50%; background-color: #6ca13b; margin-right: 8px;">
+                    </div>
+                    <span>Sales and service income</span>
+                </div>
+            </div>
+
+            <div class=" chart-container">
+                <div id="chart0">
+                    <div id="chartSpec"></div>
+                    <div class="region-select">
+                        <label for="region">Select Region: </label>
+                        <select id="region">
+                            <option value="New South Wales" selected>New South Wales</option>
+                            <option value="Victoria">Victoria</option>
+                            <option value="Queensland">Queensland</option>
+                            <option value="South Australia">South Australia</option>
+                            <option value="Western Australia">Western Australia</option>
+                            <option value="Tasmania">Tasmania</option>
+                            <option value="Northern Territory">Northern Territory</option>
+                        </select>
+                    </div>
+
+                </div>
+                <div id="chart1">
+                    <div id="chartSpec1"></div>
+                    <div class="region-select1">
+                        <label for="region1">Select Region: </label>
+                        <select id="region1">
+                            <option value="New South Wales" selected>New South Wales</option>
+                            <option value="Victoria">Victoria</option>
+                            <option value="Queensland">Queensland</option>
+                            <option value="South Australia">South Australia</option>
+                            <option value="Western Australia">Western Australia</option>
+                            <option value="Tasmania">Tasmania</option>
+                            <option value="Northern Territory">Northern Territory</option>
+                        </select>
+                    </div>
+
+                </div>
+
+                <div id="chart2">
+                    <div id="chartSpec2"></div>
+                    <div class="region-select2">
+                        <label for="region2">Select Region: </label>
+                        <select id="region2">
+                            <option value="New South Wales">New South Wales</option>
+                            <option value="Victoria" selected>Victoria</option>
+                            <option value="Queensland">Queensland</option>
+                            <option value="South Australia">South Australia</option>
+                            <option value="Western Australia">Western Australia</option>
+                            <option value="Tasmania">Tasmania</option>
+                            <option value="Northern Territory">Northern Territory</option>
+                        </select>
+                    </div>
+
+                </div>
+
+                <div id="chart3">
+                    <div id="chartSpec3"></div>
+                    <div class="region-select3">
+                        <label for="region3">Select Region: </label>
+                        <select id="region3">
+                            <option value="New South Wales">New South Wales</option>
+                            <option value="Victoria">Victoria</option>
+                            <option value="Queensland" selected>Queensland</option>
+                            <option value="South Australia">South Australia</option>
+                            <option value="Western Australia">Western Australia</option>
+                            <option value="Tasmania">Tasmania</option>
+                            <option value="Northern Territory">Northern Territory</option>
+                        </select>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!--bubble chart and Pie chart-->
+        <div style="margin-top:35px; margin-bottom: 35px;">
+            <div style="display: flex;">
+                <div>
+                    <h2>Mining Industry Financial Performance</h2>
+                    <p style="padding-right: 200px;">In Australia mining industry, there are five different mining
+                        sectors. The graph below is showing
+                        how various mining sectors perform financially over selected years
+                        , highlighting income, expenses, and operating profit.
+                        <br /> <br /> By comparing performance across different mining sector to understand which
+                        sectors are
+                        more
+                        profitable or less efficient. <br /><br />
+                    </p>
+                    <div id="chartBubble"></div>
+                </div>
+                <div>
+                    <h2>Detailed Financial Performance Category</h2>
+                    <p style="padding-right: 100px;">
+                        By selecting specific income categories, the pie chart
+                        below
+                        reveals the proportions of each income and expense source, allowing detailed analysis of
+                        revenue
+                        streams for
+                        each sector.
+                        <br /> <br />
+                        Using this information, stakeholders can identify the most profitable sectors and make
+                        informed
+                        decisions
+                        on investment and resource allocation.
+                    </p>
+                    <div id="pieChart"></div>
+                </div>
+            </div>
+
+        </div>
     </div>
 
     <script src="map.js"></script>
+    <script src="chart1.js"></script>
     <script src="pieChart.js"></script>
     <script src="lineChart.js"></script>
     <script src="stateMap1.js"></script>
@@ -188,16 +254,19 @@
         const visCompare = document.getElementById('vis-compare');
         document.addEventListener("DOMContentLoaded", function () {
             const tabs = document.querySelectorAll(".tab");
+            const chart0 = document.getElementById("chart0");
             const chart1 = document.getElementById("chart1");
             const chart2 = document.getElementById("chart2");
             const chart3 = document.getElementById("chart3");
 
             function showChart(sector) {
                 if (sector === "All") {
-                    chart1.style.display = "block";
+                    chart0.style.display = "block";
+                    chart1.style.display = "none";
                     chart2.style.display = "none";
                     chart3.style.display = "none";
                 } else {
+                    chart0.style.display = "none";
                     chart1.style.display = "block";
                     chart2.style.display = "block";
                     chart3.style.display = "block";
@@ -238,7 +307,7 @@
         color: rgb(255, 255, 255);
         margin: 0;
         padding: 0;
-        background-color: #585146;
+        background-color: #6b675b;
         overflow-x: hidden;
     }
 
@@ -312,6 +381,7 @@
     }
 
     #chartSpec,
+    #chartSpec1,
     #chartSpec2,
     #chartSpec3 {
         width: 400px;

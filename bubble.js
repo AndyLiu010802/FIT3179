@@ -3,7 +3,7 @@ const chartBubble = {
     "description": "Bubble chart",
     "width": 500,
     "height": 400,
-    "background": "#585146",
+    "background": "#6b675b",
     "padding": 5,
     "data": {
       "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/industry.json",
@@ -22,7 +22,7 @@ const chartBubble = {
             "2021-22",
             "2022-23"
           ],
-          "name": "Year Period: "
+          "name": "Select Year Period: "
         }
       }
     ],

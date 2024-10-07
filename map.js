@@ -2,7 +2,7 @@ var map = {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 1350,
   "height": 650,
-  "background": "#585146",
+  "background": "#6b675b",
   "autosize": {
     "type": "fit",
     "contains": "padding"
@@ -20,7 +20,7 @@ var map = {
           "Mine - care and maintenance",
           "Mine - under development"
         ],
-        "name": "Status: "
+        "name": "Select Status: "
       }
     }
   ],

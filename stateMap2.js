@@ -2,7 +2,7 @@ var map = {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 950,
   "height": 650,
-  "background": "#585146",
+  "background": "#6b675b",
   "autosize": {
     "type": "fit",
     "contains": "padding"
@@ -25,7 +25,7 @@ var map = {
           "NT",
           
         ],
-        "name": "State: ",
+        "name": "Select State: ",
         "padding": { "top": 0, "left": 1000, "right": 10, "bottom": 0 },
       }
     }

@@ -1,5 +1,4 @@
-const chartSpec = (selectedKey, selectedRegion) => {
-    
+const chartSpec1 = (selectedKey, selectedRegion1) => {
     let domainMax;
     if  (selectedKey === 'Employment at end of June') {
         domainMax = 86000; 
@@ -12,9 +11,9 @@ const chartSpec = (selectedKey, selectedRegion) => {
     return {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
         "description": "Radar chart using keys as radial points and values as radial distances",
-        "width": 800,
-        "height": 650,
-        "padding": { "top": 300, "left": 200, "right": 50, "bottom": 300 },
+        "width": 560,
+        "height": 470,
+        "padding": { "top": 150, "left": 200, "right": 50, "bottom": 50 },
         "autosize": { "type": "none", "contains": "padding" },
         "signals": [{ "name": "radius", "update": "width / 2" }],
         "data": [
@@ -26,8 +25,8 @@ const chartSpec = (selectedKey, selectedRegion) => {
                     {
                         "type": "filter",
                         "expr": (selectedKey === "All" ? 
-                                `datum.Region === '${selectedRegion}'` :
-                                `datum.key === '${selectedKey}' && datum.Region === '${selectedRegion}'`)
+                                `datum.Region === '${selectedRegion1}'` :
+                                `datum.key === '${selectedKey}' && datum.Region === '${selectedRegion1}'`)
                     }
                 ]
             },
@@ -41,7 +40,9 @@ const chartSpec = (selectedKey, selectedRegion) => {
                     }
                 ]
             }
+            
         ],
+        
         "scales": [
             {
                 "name": "angular",
@@ -58,7 +59,7 @@ const chartSpec = (selectedKey, selectedRegion) => {
                 "nice": false,
                 "domain": {"data": "table", "field": "value"}, 
                 "domainMin": 0,
-                "domainMax": domainMax  
+                "domainMax": domainMax
             },
             {
                 "name": "color",
@@ -67,8 +68,9 @@ const chartSpec = (selectedKey, selectedRegion) => {
                 "range": ["#3b7dc4", "#cf4730", "#6ca13b"]  
             }
         ],
-
         "marks": [
+            
+            // Radar chart points and lines
             {
                 "type": "group",
                 "name": "categories",
@@ -79,7 +81,6 @@ const chartSpec = (selectedKey, selectedRegion) => {
                         "type": "line",
                         "name": "category-line",
                         "from": { "data": "facet" },
-                        "zindex": 1,
                         "encode": {
                             "enter": {
                                 "interpolate": { "value": "linear-closed" },
@@ -96,7 +97,6 @@ const chartSpec = (selectedKey, selectedRegion) => {
                         "type": "symbol",
                         "name": "category-point",
                         "from": { "data": "facet" },
-                        "zindex": 3,
                         "encode": {
                             "enter": {
                                 "size": { "value": 50 },
@@ -108,11 +108,10 @@ const chartSpec = (selectedKey, selectedRegion) => {
                                 "tooltip": { "signal": "{'Region': datum.Region, 'Sector': datum.key, 'Value': datum.value}" }
                             }
                         }
-
                     }
                 ]
             },
-           
+        
             {
                 "type": "rule",
                 "name": "radial-grid",
@@ -129,7 +128,7 @@ const chartSpec = (selectedKey, selectedRegion) => {
                     }
                 }
             },
-
+          
             {
                 "type": "line",
                 "name": "hex-grid",
@@ -144,7 +143,7 @@ const chartSpec = (selectedKey, selectedRegion) => {
                     }
                 }
             },
-            
+        
             {
                 "type": "text",
                 "name": "key-label",
@@ -155,7 +154,6 @@ const chartSpec = (selectedKey, selectedRegion) => {
                         "x": { "signal": "(radius + 5) * cos(scale('angular', datum.Year))" },
                         "y": { "signal": "(radius + 5) * sin(scale('angular', datum.Year))" },
                         "text": { "field": "Year" },
-                        
                         "align": [
                             { "test": "abs(scale('angular', datum.Year)) > PI / 2", "value": "right" },
                             { "value": "left" }
@@ -174,11 +172,11 @@ const chartSpec = (selectedKey, selectedRegion) => {
     };
 };
 
-let selectedKey = "All";
-let selectedRegion = "New South Wales";
 
-function renderChart() {
-    vegaEmbed('#chartSpec', chartSpec(selectedKey, selectedRegion)).catch(console.error);
+let selectedRegion1 = "New South Wales";
+
+function renderChart1() {
+    vegaEmbed('#chartSpec1', chartSpec1(selectedKey, selectedRegion1)).catch(console.error);
 }
 
 document.querySelectorAll('.tab').forEach(tab => {
@@ -186,13 +184,13 @@ document.querySelectorAll('.tab').forEach(tab => {
         document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
         e.target.classList.add('active');
         selectedKey = e.target.getAttribute('data-sector');
-        renderChart();
+        renderChart1();
     });
 });
 
-document.getElementById('region').addEventListener('change', (e) => {
-    selectedRegion = e.target.value;
-    renderChart();
+document.getElementById('region1').addEventListener('change', (e) => {
+    selectedRegion1 = e.target.value;
+    renderChart1();
 });
 
-renderChart();
+renderChart1();
