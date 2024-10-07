@@ -31,6 +31,16 @@ const chartPie = {
           "labels": ["Income", "Expense"],
           "name": "Select Type: "
         }
+      },
+      {
+        "name": "selectedSector",
+        "value": "Coal Mining",
+        "bind": {
+          "input": "select",
+          "options": ["Coal Mining", "Oil and Gas Extraction", "Metal Ore Mining", "Non-Metallic Mineral Mining and Quarrying", "Exploration and Other Mining Support Services"],
+          "labels": ["Coal Mining", "Oil and Gas Extraction", "Metal Ore Mining", "Non-Metallic Mineral Mining and Quarrying", "Exploration and Other Mining Support Services"],
+          "name": "Select Type: "
+        }
       }
     ],
     "transform": [
@@ -39,7 +49,10 @@ const chartPie = {
       },
       {
         "filter": "datum.Type == selectedType"
-      }
+      },
+        {
+            "filter": "datum.Sector == selectedSector"
+        }
     ],
     "mark": "arc",
     "encoding": {
