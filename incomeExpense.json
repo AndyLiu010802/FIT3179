@@ -1,9 +1,660 @@
-[{"Description": "Sales of goods", "Year": "2020-21", "Amount": 48266, "Type": "Income"}, {"Description": "Service income", "Year": "2020-21", "Amount": 5514, "Type": "Income"}, {"Description": "Rent, leasing and hiring income", "Year": "2020-21", "Amount": 126, "Type": "Income"}, {"Description": "Interest income", "Year": "2020-21", "Amount": 522, "Type": "Income"}, {"Description": "Other income", "Year": "2020-21", "Amount": -2122, "Type": "Income"}, 
- {"Description": "Purchases of goods and materials", "Year": "2020-21", "Amount": 14972, "Type": "Expense"}, {"Description": "Rent, leasing and hiring expenses", "Year": "2020-21", "Amount": 835, "Type": "Expense"}, {"Description": "Freight and cartage expenses", "Year": "2020-21", "Amount": 5860, "Type": "Expense"}, {"Description": "Motor vehicle running expenses", "Year": "2020-21", "Amount": 0, "Type": "Expense"}, {"Description": "Repair and maintenance expenses", "Year": "2020-21", "Amount": 2405, "Type": "Expense"}, {"Description": "Contract mining expenses", "Year": "2020-21", "Amount": 5723, "Type": "Expense"}, {"Description": "Other contract, subcontract and commission expenses", "Year": "2020-21", "Amount": 1217, "Type": "Expense"}, {"Description": "Interest expenses", "Year": "2020-21", "Amount": 1364, "Type": "Expense"}, {"Description": "Natural resource royalties expenses", "Year": "2020-21", "Amount": 3551, "Type": "Expense"}, {"Description": "Other expenses", "Year": "2020-21", "Amount": 7267, "Type": "Expense"}, 
-  {"Description": "Sales of goods", "Year": "2021-22", "Amount": 100740, "Type": "Income"}, {"Description": "Service income", "Year": "2021-22", "Amount": 4852, "Type": "Income"}, {"Description": "Rent, leasing and hiring income", "Year": "2021-22", "Amount": 104, "Type": "Income"},
-    {"Description": "Interest income", "Year": "2021-22", "Amount": 325, "Type": "Income"}, {"Description": "Other income", "Year": "2021-22", "Amount": 1806, "Type": "Income"}, 
-   {"Description": "Purchases of goods and materials", "Year": "2021-22", "Amount": 17890, "Type": "Expense"}, {"Description": "Rent, leasing and hiring expenses", "Year": "2021-22", "Amount": 924, "Type": "Expense"}, {"Description": "Freight and cartage expenses", "Year": "2021-22", "Amount": 6310, "Type": "Expense"}, {"Description": "Repair and maintenance expenses", "Year": "2021-22", "Amount": 2270, "Type": "Expense"}, {"Description": "Contract mining expenses", "Year": "2021-22", "Amount": 5481, "Type": "Expense"}, {"Description": "Other contract, subcontract and commission expenses", "Year": "2021-22", "Amount": 1237, "Type": "Expense"}, {"Description": "Interest expenses", "Year": "2021-22", "Amount": 1335, "Type": "Expense"}, {"Description": "Natural resource royalties expenses", "Year": "2021-22", "Amount": 8538, "Type": "Expense"}, 
-   {"Description": "Sales of goods", "Year": "2022-23", "Amount": 146946, "Type": "Income"}, {"Description": "Service income", "Year": "2022-23", "Amount": 5618, "Type": "Income"}, {"Description": "Rent, leasing and hiring income", "Year": "2022-23", "Amount": 134, "Type": "Income"}, 
-   {"Description": "Interest income", "Year": "2022-23", "Amount": 1465, "Type": "Income"}, {"Description": "Other income", "Year": "2022-23", "Amount": 8032, "Type": "Income"}, 
-    {"Description": "Purchases of goods and materials", "Year": "2022-23", "Amount": 27086, "Type": "Expense"}, {"Description": "Rent, leasing and hiring expenses", "Year": "2022-23", "Amount": 1195, "Type": "Expense"}, {"Description": "Freight and cartage expenses", "Year": "2022-23", "Amount": 6560, "Type": "Expense"}, {"Description": "Motor vehicle running expenses", "Year": "2022-23", "Amount": 869, "Type": "Expense"}, {"Description": "Repair and maintenance expenses", "Year": "2022-23", "Amount": 2734, "Type": "Expense"}, {"Description": "Contract mining expenses", "Year": "2022-23", "Amount": 6191, "Type": "Expense"}, {"Description": "Other contract, subcontract and commission expenses", "Year": "2022-23", "Amount": 2061, "Type": "Expense"}, {"Description": "Interest expenses", "Year": "2022-23", "Amount": 2312, "Type": "Expense"}, {"Description": "Natural resource royalties expenses", "Year": "2022-23", "Amount": 17638, "Type": "Expense"}, {"Description": "Other expenses", "Year": "2022-23", "Amount": 8628, "Type": "Expense"} 
+[
+    {
+        "Description": "Employment at end June",
+        "Year": "2020-21",
+        "Amount": 38693,
+        "Type": "no.",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 48266,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 5514,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 126,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Total sales and service income",
+        "Year": "2020-21",
+        "Amount": 53906,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Total funding from government for operational costs",
+        "Year": "2020-21",
+        "Amount": 998,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Interest income",
+        "Year": "2020-21",
+        "Amount": 522,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Other income",
+        "Year": "2020-21",
+        "Amount": -2122,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Total income",
+        "Year": "2020-21",
+        "Amount": 53304,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Purchases of goods and materials",
+        "Year": "2020-21",
+        "Amount": 14972,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Rent, leasing and hiring expenses",
+        "Year": "2020-21",
+        "Amount": 835,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Freight and cartage expenses",
+        "Year": "2020-21",
+        "Amount": 5860,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Motor vehicle running expenses",
+        "Year": "2020-21",
+        "Amount": 0,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Repair and maintenance expenses",
+        "Year": "2020-21",
+        "Amount": 2405,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Contract mining expenses",
+        "Year": "2020-21",
+        "Amount": 5723,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Other contract, subcontract and commission expenses",
+        "Year": "2020-21",
+        "Amount": 1217,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Selected labour costs",
+        "Year": "2020-21",
+        "Amount": 6664,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Interest expenses",
+        "Year": "2020-21",
+        "Amount": 1364,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Depreciation and amortisation",
+        "Year": "2020-21",
+        "Amount": 7136,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Insurance premiums",
+        "Year": "2020-21",
+        "Amount": 483,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Natural resource royalties expenses",
+        "Year": "2020-21",
+        "Amount": 3551,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Bad and doubtful debts",
+        "Year": "2020-21",
+        "Amount": 13,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Other expenses",
+        "Year": "2020-21",
+        "Amount": 7267,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Capital work done for own use",
+        "Year": "2020-21",
+        "Amount": 457,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Total expenses",
+        "Year": "2020-21",
+        "Amount": 57034,
+        "Type": "$m",
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Employment at end June",
+        "Year": "2020-21",
+        "Amount": 42521,
+        "Type": "no.",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 146946,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 5618,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 134,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Total sales and service income",
+        "Year": "2020-21",
+        "Amount": 152698,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Total funding from government for operational costs",
+        "Year": "2020-21",
+        "Amount": 818,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Interest income",
+        "Year": "2020-21",
+        "Amount": 1465,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Other income",
+        "Year": "2020-21",
+        "Amount": 8032,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Total income",
+        "Year": "2020-21",
+        "Amount": 163013,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Purchases of goods and materials",
+        "Year": "2020-21",
+        "Amount": 27086,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Rent, leasing and hiring expenses",
+        "Year": "2020-21",
+        "Amount": 1195,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Freight and cartage expenses",
+        "Year": "2020-21",
+        "Amount": 6560,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Motor vehicle running expenses",
+        "Year": "2020-21",
+        "Amount": 869,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Repair and maintenance expenses",
+        "Year": "2020-21",
+        "Amount": 2734,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Contract mining expenses",
+        "Year": "2020-21",
+        "Amount": 6191,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Other contract, subcontract and commission expenses",
+        "Year": "2020-21",
+        "Amount": 2061,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Selected labour costs",
+        "Year": "2020-21",
+        "Amount": 7691,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Interest expenses",
+        "Year": "2020-21",
+        "Amount": 2312,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Depreciation and amortisation",
+        "Year": "2020-21",
+        "Amount": 7542,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Insurance premiums",
+        "Year": "2020-21",
+        "Amount": 495,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Natural resource royalties expenses",
+        "Year": "2020-21",
+        "Amount": 17638,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Bad and doubtful debts",
+        "Year": "2020-21",
+        "Amount": 1,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Other expenses",
+        "Year": "2020-21",
+        "Amount": 8628,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Capital work done for own use",
+        "Year": "2020-21",
+        "Amount": 428,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Total expenses",
+        "Year": "2020-21",
+        "Amount": 90574,
+        "Type": "$m",
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Employment at end June",
+        "Year": "2020-21",
+        "Amount": 17293,
+        "Type": "no.",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 55733,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 1565,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 20,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Total sales and service income",
+        "Year": "2020-21",
+        "Amount": 57318,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Total funding from government for operational costs",
+        "Year": "2020-21",
+        "Amount": 93,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Interest income",
+        "Year": "2020-21",
+        "Amount": 646,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Other income",
+        "Year": "2020-21",
+        "Amount": -15940,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Total income",
+        "Year": "2020-21",
+        "Amount": 42118,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Purchases of goods and materials",
+        "Year": "2020-21",
+        "Amount": 11993,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Rent, leasing and hiring expenses",
+        "Year": "2020-21",
+        "Amount": 383,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Freight and cartage expenses",
+        "Year": "2020-21",
+        "Amount": 984,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Motor vehicle running expenses",
+        "Year": "2020-21",
+        "Amount": 0,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Repair and maintenance expenses",
+        "Year": "2020-21",
+        "Amount": 660,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Other contract, subcontract and commission expenses",
+        "Year": "2020-21",
+        "Amount": 429,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Selected labour costs",
+        "Year": "2020-21",
+        "Amount": 4138,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Interest expenses",
+        "Year": "2020-21",
+        "Amount": 8311,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Depreciation and amortisation",
+        "Year": "2020-21",
+        "Amount": 19935,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Natural resource royalties expenses",
+        "Year": "2020-21",
+        "Amount": 1223,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Bad and doubtful debts",
+        "Year": "2020-21",
+        "Amount": 39,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Other expenses",
+        "Year": "2020-21",
+        "Amount": 8055,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Capital work done for own use",
+        "Year": "2020-21",
+        "Amount": 1887,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Total expenses",
+        "Year": "2020-21",
+        "Amount": 55158,
+        "Type": "$m",
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Employment at end June",
+        "Year": "2020-21",
+        "Amount": 36823,
+        "Type": "no.",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 148858,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Total sales and service income",
+        "Year": "2020-21",
+        "Amount": 156044,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Total funding from government for operational costs",
+        "Year": "2020-21",
+        "Amount": 1041,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Interest income",
+        "Year": "2020-21",
+        "Amount": 273,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Other income",
+        "Year": "2020-21",
+        "Amount": 2048,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Total income",
+        "Year": "2020-21",
+        "Amount": 159405,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Purchases of goods and materials",
+        "Year": "2020-21",
+        "Amount": 7573,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Freight and cartage expenses",
+        "Year": "2020-21",
+        "Amount": 4178,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Repair and maintenance expenses",
+        "Year": "2020-21",
+        "Amount": 789,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Contract mining expenses",
+        "Year": "2020-21",
+        "Amount": 4197,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Other contract, subcontract and commission expenses",
+        "Year": "2020-21",
+        "Amount": 3710,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Selected labour costs",
+        "Year": "2020-21",
+        "Amount": 6861,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Interest expenses",
+        "Year": "2020-21",
+        "Amount": 1300,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Depreciation and amortisation",
+        "Year": "2020-21",
+        "Amount": 8981,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Insurance premiums",
+        "Year": "2020-21",
+        "Amount": 296,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Natural resource royalties expenses",
+        "Year": "2020-21",
+        "Amount": 11416,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Bad and doubtful debts",
+        "Year": "2020-21",
+        "Amount": 11,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Other expenses",
+        "Year": "2020-21",
+        "Amount": 11398,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Capital work done for own use",
+        "Year": "2020-21",
+        "Amount": 82,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    },
+    {
+        "Description": "Total expenses",
+        "Year": "2020-21",
+        "Amount": 61314,
+        "Type": "$m",
+        "Sector": "Iron ore mining"
+    }
 ]
