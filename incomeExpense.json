@@ -3,1680 +3,2040 @@
         "Description": "Sales of goods",
         "Year": "2021-22",
         "Amount": 100740,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Sales of goods",
         "Year": "2021-22",
         "Amount": 82292,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Sales of goods",
         "Year": "2021-22",
         "Amount": 202674,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Sales of goods",
         "Year": "2021-22",
         "Amount": 9660,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Sales of goods",
         "Year": "2021-22",
         "Amount": 3642,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Sales of goods",
         "Year": "2022-23",
         "Amount": 146946,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Sales of goods",
         "Year": "2022-23",
         "Amount": 129750,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Sales of goods",
         "Year": "2022-23",
         "Amount": 189022,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Sales of goods",
         "Year": "2022-23",
         "Amount": 19612,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Sales of goods",
         "Year": "2022-23",
         "Amount": 3706,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Service income",
         "Year": "2021-22",
         "Amount": 4852,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Service income",
         "Year": "2021-22",
         "Amount": 1650,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Service income",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Service income",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Service income",
         "Year": "2021-22",
         "Amount": 14707,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Service income",
         "Year": "2022-23",
         "Amount": 5618,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Service income",
         "Year": "2022-23",
         "Amount": 1707,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Service income",
         "Year": "2022-23",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Service income",
         "Year": "2022-23",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Service income",
         "Year": "2022-23",
         "Amount": 17002,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2021-22",
         "Amount": 104,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2021-22",
         "Amount": 246,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2021-22",
         "Amount": 469,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2022-23",
         "Amount": 134,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2022-23",
         "Amount": 5,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2022-23",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2022-23",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2022-23",
         "Amount": 521,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2021-22",
         "Amount": 871,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2021-22",
         "Amount": 104,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2021-22",
         "Amount": 245,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2022-23",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2022-23",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2022-23",
         "Amount": 1509,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2022-23",
         "Amount": 0,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2022-23",
         "Amount": 107,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Other operational costs",
         "Year": "2021-22",
         "Amount": 35,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Other operational costs",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Other operational costs",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Other operational costs",
         "Year": "2021-22",
         "Amount": 20,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Other operational costs",
         "Year": "2021-22",
         "Amount": 67,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Other operational costs",
         "Year": "2022-23",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Other operational costs",
         "Year": "2022-23",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Other operational costs",
         "Year": "2022-23",
         "Amount": 55,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Other operational costs",
         "Year": "2022-23",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Other operational costs",
         "Year": "2022-23",
         "Amount": 71,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Total funding from government for operational costs",
         "Year": "2021-22",
         "Amount": 906,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Total funding from government for operational costs",
         "Year": "2021-22",
         "Amount": 36,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Total funding from government for operational costs",
         "Year": "2021-22",
         "Amount": 1595,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Total funding from government for operational costs",
         "Year": "2021-22",
         "Amount": 124,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Total funding from government for operational costs",
         "Year": "2021-22",
         "Amount": 312,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Total funding from government for operational costs",
         "Year": "2022-23",
         "Amount": 818,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Total funding from government for operational costs",
         "Year": "2022-23",
         "Amount": 23,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Total funding from government for operational costs",
         "Year": "2022-23",
         "Amount": 1564,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Total funding from government for operational costs",
         "Year": "2022-23",
         "Amount": 106,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Total funding from government for operational costs",
         "Year": "2022-23",
         "Amount": 179,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Interest income",
         "Year": "2021-22",
         "Amount": 325,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Interest income",
         "Year": "2021-22",
         "Amount": 433,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Interest income",
         "Year": "2021-22",
         "Amount": 300,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Interest income",
         "Year": "2021-22",
         "Amount": 59,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Interest income",
         "Year": "2021-22",
         "Amount": 311,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Interest income",
         "Year": "2022-23",
         "Amount": 1465,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Interest income",
         "Year": "2022-23",
         "Amount": 1153,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Interest income",
         "Year": "2022-23",
         "Amount": 1690,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Interest income",
         "Year": "2022-23",
         "Amount": 172,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Interest income",
         "Year": "2022-23",
         "Amount": 129,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Other income",
         "Year": "2021-22",
         "Amount": 1806,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Other income",
         "Year": "2021-22",
         "Amount": 7353,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Other income",
         "Year": "2021-22",
         "Amount": 6870,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Other income",
         "Year": "2021-22",
         "Amount": 102,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Other income",
         "Year": "2021-22",
         "Amount": 947,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Other income",
         "Year": "2022-23",
         "Amount": 8032,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Other income",
         "Year": "2022-23",
         "Amount": 16685,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Other income",
         "Year": "2022-23",
         "Amount": 4484,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Other income",
         "Year": "2022-23",
         "Amount": 448,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Other income",
         "Year": "2022-23",
         "Amount": 52,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Purchases of goods and materials",
         "Year": "2021-22",
         "Amount": 17890,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Purchases of goods and materials",
         "Year": "2021-22",
         "Amount": 15397,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Purchases of goods and materials",
         "Year": "2021-22",
         "Amount": 22009,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Purchases of goods and materials",
         "Year": "2021-22",
         "Amount": 1810,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Purchases of goods and materials",
         "Year": "2021-22",
         "Amount": 4800,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Purchases of goods and materials",
         "Year": "2022-23",
         "Amount": 27086,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Purchases of goods and materials",
         "Year": "2022-23",
         "Amount": 20967,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Purchases of goods and materials",
         "Year": "2022-23",
         "Amount": 26549,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Purchases of goods and materials",
         "Year": "2022-23",
         "Amount": 2143,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Purchases of goods and materials",
         "Year": "2022-23",
         "Amount": 5638,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Rent, leasing and hiring expenses",
         "Year": "2021-22",
         "Amount": 924,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Rent, leasing and hiring expenses",
         "Year": "2021-22",
         "Amount": 354,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Rent, leasing and hiring expenses",
         "Year": "2021-22",
         "Amount": 1488,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Rent, leasing and hiring expenses",
         "Year": "2021-22",
         "Amount": 253,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Rent, leasing and hiring expenses",
         "Year": "2021-22",
         "Amount": 594,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Rent, leasing and hiring expenses",
         "Year": "2022-23",
         "Amount": 1195,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Rent, leasing and hiring expenses",
         "Year": "2022-23",
         "Amount": 305,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Rent, leasing and hiring expenses",
         "Year": "2022-23",
         "Amount": 1466,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Rent, leasing and hiring expenses",
         "Year": "2022-23",
         "Amount": 342,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Rent, leasing and hiring expenses",
         "Year": "2022-23",
         "Amount": 747,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Freight and cartage expenses",
         "Year": "2021-22",
         "Amount": 6310,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Freight and cartage expenses",
         "Year": "2021-22",
         "Amount": 811,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Freight and cartage expenses",
         "Year": "2021-22",
         "Amount": 6519,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Freight and cartage expenses",
         "Year": "2021-22",
         "Amount": 917,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Freight and cartage expenses",
         "Year": "2021-22",
         "Amount": 753,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Freight and cartage expenses",
         "Year": "2022-23",
         "Amount": 6560,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Freight and cartage expenses",
         "Year": "2022-23",
         "Amount": 1036,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Freight and cartage expenses",
         "Year": "2022-23",
         "Amount": 5642,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Freight and cartage expenses",
         "Year": "2022-23",
         "Amount": 1150,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Freight and cartage expenses",
         "Year": "2022-23",
         "Amount": 766,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Motor vehicle running expenses",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Motor vehicle running expenses",
         "Year": "2021-22",
         "Amount": 7,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Motor vehicle running expenses",
         "Year": "2021-22",
         "Amount": 156,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Motor vehicle running expenses",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Motor vehicle running expenses",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Motor vehicle running expenses",
         "Year": "2022-23",
         "Amount": 869,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Motor vehicle running expenses",
         "Year": "2022-23",
         "Amount": 13,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Motor vehicle running expenses",
         "Year": "2022-23",
         "Amount": 259,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Motor vehicle running expenses",
         "Year": "2022-23",
         "Amount": 231,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Motor vehicle running expenses",
         "Year": "2022-23",
         "Amount": 385,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Repair and maintenance expenses",
         "Year": "2021-22",
         "Amount": 2270,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Repair and maintenance expenses",
         "Year": "2021-22",
         "Amount": 600,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Repair and maintenance expenses",
         "Year": "2021-22",
         "Amount": 1746,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Repair and maintenance expenses",
         "Year": "2021-22",
         "Amount": 327,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Repair and maintenance expenses",
         "Year": "2021-22",
         "Amount": 916,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Repair and maintenance expenses",
         "Year": "2022-23",
         "Amount": 2734,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Repair and maintenance expenses",
         "Year": "2022-23",
         "Amount": 814,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Repair and maintenance expenses",
         "Year": "2022-23",
         "Amount": 1969,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Repair and maintenance expenses",
         "Year": "2022-23",
         "Amount": 496,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Repair and maintenance expenses",
         "Year": "2022-23",
         "Amount": 943,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Contract mining expenses",
         "Year": "2021-22",
         "Amount": 5481,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Contract mining expenses",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Contract mining expenses",
         "Year": "2021-22",
         "Amount": 9486,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Contract mining expenses",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Contract mining expenses",
         "Year": "2021-22",
         "Amount": 348,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Contract mining expenses",
         "Year": "2022-23",
         "Amount": 6191,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Contract mining expenses",
         "Year": "2022-23",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Contract mining expenses",
         "Year": "2022-23",
         "Amount": 9911,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Contract mining expenses",
         "Year": "2022-23",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Contract mining expenses",
         "Year": "2022-23",
         "Amount": 870,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Other contract, subcontract and commission expenses",
         "Year": "2021-22",
         "Amount": 1237,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Other contract, subcontract and commission expenses",
         "Year": "2021-22",
         "Amount": 542,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Other contract, subcontract and commission expenses",
         "Year": "2021-22",
         "Amount": 5499,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Other contract, subcontract and commission expenses",
         "Year": "2021-22",
         "Amount": 445,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Other contract, subcontract and commission expenses",
         "Year": "2021-22",
         "Amount": 266,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Other contract, subcontract and commission expenses",
         "Year": "2022-23",
         "Amount": 2061,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Other contract, subcontract and commission expenses",
         "Year": "2022-23",
         "Amount": 760,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Other contract, subcontract and commission expenses",
         "Year": "2022-23",
         "Amount": 6544,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Other contract, subcontract and commission expenses",
         "Year": "2022-23",
         "Amount": 624,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Other contract, subcontract and commission expenses",
         "Year": "2022-23",
         "Amount": 918,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Selected labour costs",
         "Year": "2021-22",
         "Amount": 6877,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Selected labour costs",
         "Year": "2021-22",
         "Amount": 3992,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Selected labour costs",
         "Year": "2021-22",
         "Amount": 15103,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Selected labour costs",
         "Year": "2021-22",
         "Amount": 1474,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Selected labour costs",
         "Year": "2021-22",
         "Amount": 6642,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Selected labour costs",
         "Year": "2022-23",
         "Amount": 7691,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Selected labour costs",
         "Year": "2022-23",
         "Amount": 4394,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Selected labour costs",
         "Year": "2022-23",
         "Amount": 17034,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Selected labour costs",
         "Year": "2022-23",
         "Amount": 1705,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Selected labour costs",
         "Year": "2022-23",
         "Amount": 7292,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Interest expenses",
         "Year": "2021-22",
         "Amount": 1335,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Interest expenses",
         "Year": "2021-22",
         "Amount": 6264,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Interest expenses",
         "Year": "2021-22",
         "Amount": 1989,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Interest expenses",
         "Year": "2021-22",
         "Amount": 148,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Interest expenses",
         "Year": "2021-22",
         "Amount": 257,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Interest expenses",
         "Year": "2022-23",
         "Amount": 2312,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Interest expenses",
         "Year": "2022-23",
         "Amount": 8329,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Interest expenses",
         "Year": "2022-23",
         "Amount": 3928,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Interest expenses",
         "Year": "2022-23",
         "Amount": 474,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Interest expenses",
         "Year": "2022-23",
         "Amount": 500,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Depreciation and amortisation",
         "Year": "2021-22",
         "Amount": 6830,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Depreciation and amortisation",
         "Year": "2021-22",
         "Amount": 19238,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Depreciation and amortisation",
         "Year": "2021-22",
         "Amount": 18414,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Depreciation and amortisation",
         "Year": "2021-22",
         "Amount": 584,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Depreciation and amortisation",
         "Year": "2021-22",
         "Amount": 1467,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Depreciation and amortisation",
         "Year": "2022-23",
         "Amount": 7542,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Depreciation and amortisation",
         "Year": "2022-23",
         "Amount": 21627,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Depreciation and amortisation",
         "Year": "2022-23",
         "Amount": 19708,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Depreciation and amortisation",
         "Year": "2022-23",
         "Amount": 939,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Depreciation and amortisation",
         "Year": "2022-23",
         "Amount": 1721,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Insurance premiums",
         "Year": "2021-22",
         "Amount": 495,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Insurance premiums",
         "Year": "2021-22",
         "Amount": 338,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Insurance premiums",
         "Year": "2021-22",
         "Amount": 819,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Insurance premiums",
         "Year": "2021-22",
         "Amount": 63,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Insurance premiums",
         "Year": "2021-22",
         "Amount": 154,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Insurance premiums",
         "Year": "2022-23",
         "Amount": 495,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Insurance premiums",
         "Year": "2022-23",
         "Amount": 411,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Insurance premiums",
         "Year": "2022-23",
         "Amount": 847,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Insurance premiums",
         "Year": "2022-23",
         "Amount": 113,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Insurance premiums",
         "Year": "2022-23",
         "Amount": 180,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Natural resource royalties expenses",
         "Year": "2021-22",
         "Amount": 8538,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Natural resource royalties expenses",
         "Year": "2021-22",
         "Amount": 2668,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Natural resource royalties expenses",
         "Year": "2021-22",
         "Amount": 13663,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Natural resource royalties expenses",
         "Year": "2021-22",
         "Amount": 600,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Natural resource royalties expenses",
         "Year": "2021-22",
         "Amount": 134,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Natural resource royalties expenses",
         "Year": "2022-23",
         "Amount": 17638,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Natural resource royalties expenses",
         "Year": "2022-23",
         "Amount": 4679,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Natural resource royalties expenses",
         "Year": "2022-23",
         "Amount": 12430,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Natural resource royalties expenses",
         "Year": "2022-23",
         "Amount": 1158,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Natural resource royalties expenses",
         "Year": "2022-23",
         "Amount": 86,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Bad and doubtful debts",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Bad and doubtful debts",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Bad and doubtful debts",
         "Year": "2021-22",
         "Amount": 7,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Bad and doubtful debts",
         "Year": "2021-22",
         "Amount": 3,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Bad and doubtful debts",
         "Year": "2021-22",
         "Amount": 35,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Bad and doubtful debts",
         "Year": "2022-23",
         "Amount": 1,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Bad and doubtful debts",
         "Year": "2022-23",
         "Amount": -2,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Bad and doubtful debts",
         "Year": "2022-23",
         "Amount": 45,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Bad and doubtful debts",
         "Year": "2022-23",
         "Amount": 3,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Bad and doubtful debts",
         "Year": "2022-23",
         "Amount": 26,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Other expenses",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Other expenses",
         "Year": "2021-22",
         "Amount": 0,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Other expenses",
         "Year": "2021-22",
         "Amount": 20632,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Other expenses",
         "Year": "2021-22",
         "Amount": 1612,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Other expenses",
         "Year": "2021-22",
         "Amount": 3833,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Other expenses",
         "Year": "2022-23",
         "Amount": 8628,
-        "Type": "expense",
         "Sector": "Coal mining"
     },
     {
         "Description": "Other expenses",
         "Year": "2022-23",
         "Amount": 11467,
-        "Type": "expense",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Other expenses",
         "Year": "2022-23",
         "Amount": 20828,
-        "Type": "expense",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Other expenses",
         "Year": "2022-23",
         "Amount": 2150,
-        "Type": "expense",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Other expenses",
         "Year": "2022-23",
         "Amount": 3921,
-        "Type": "expense",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Sales of goods",
         "Year": "2020-21",
         "Amount": 48266.0,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Service income",
         "Year": "2020-21",
         "Amount": 5514.0,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2020-21",
         "Amount": 126.0,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2020-21",
         "Amount": 0.0,
-        "Type": "income",
         "Sector": "Coal mining"
     },
     {
         "Description": "Sales of goods",
         "Year": "2020-21",
         "Amount": 55733.0,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Service income",
         "Year": "2020-21",
         "Amount": 1565.0,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2020-21",
         "Amount": 20.0,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2020-21",
         "Amount": 0.0,
-        "Type": "income",
         "Sector": "Oil and gas extraction"
     },
     {
         "Description": "Sales of goods",
         "Year": "2020-21",
         "Amount": 198697.0,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Service income",
         "Year": "2020-21",
         "Amount": 8156.0,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2020-21",
         "Amount": 1221.0,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2020-21",
         "Amount": 1506.0,
-        "Type": "income",
         "Sector": "Metal ore mining"
     },
     {
         "Description": "Sales of goods",
         "Year": "2020-21",
         "Amount": 7099.0,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Service income",
         "Year": "2020-21",
         "Amount": 815.0,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2020-21",
         "Amount": 163.0,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2020-21",
         "Amount": 97.0,
-        "Type": "income",
         "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Sales of goods",
         "Year": "2020-21",
         "Amount": 2745.0,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Service income",
         "Year": "2020-21",
         "Amount": 12763.0,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Rent, leasing and hiring income",
         "Year": "2020-21",
         "Amount": 341.0,
-        "Type": "income",
         "Sector": "Exploration and other mining support services"
     },
     {
         "Description": "Amount reimbursed under fuel tax credits",
         "Year": "2020-21",
         "Amount": 130.0,
-        "Type": "income",
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 48266,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 5514,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 126,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Amount reimbursed under fuel tax credits",
+        "Year": "2020-21",
+        "Amount": 0,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Other operational costs",
+        "Year": "2020-21",
+        "Amount": 0,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Total funding from government for operational costs",
+        "Year": "2020-21",
+        "Amount": 998,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Interest income",
+        "Year": "2020-21",
+        "Amount": 522,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Other income",
+        "Year": "2020-21",
+        "Amount": -2122,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Purchases of goods and materials",
+        "Year": "2020-21",
+        "Amount": 14972,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Rent, leasing and hiring expenses",
+        "Year": "2020-21",
+        "Amount": 835,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Freight and cartage expenses",
+        "Year": "2020-21",
+        "Amount": 5860,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Motor vehicle running expenses",
+        "Year": "2020-21",
+        "Amount": 0,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Repair and maintenance expenses",
+        "Year": "2020-21",
+        "Amount": 2405,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Contract mining expenses",
+        "Year": "2020-21",
+        "Amount": 5723,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Other contract, subcontract and commission expenses",
+        "Year": "2020-21",
+        "Amount": 1217,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Selected labour costs",
+        "Year": "2020-21",
+        "Amount": 6664,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Interest expenses",
+        "Year": "2020-21",
+        "Amount": 1364,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Depreciation and amortisation",
+        "Year": "2020-21",
+        "Amount": 7136,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Insurance premiums",
+        "Year": "2020-21",
+        "Amount": 483,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Natural resource royalties expenses",
+        "Year": "2020-21",
+        "Amount": 3551,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Bad and doubtful debts",
+        "Year": "2020-21",
+        "Amount": 13,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Other expenses",
+        "Year": "2020-21",
+        "Amount": 7267,
+        "Sector": "Coal mining"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 55733,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 1565,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 20,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Amount reimbursed under fuel tax credits",
+        "Year": "2020-21",
+        "Amount": 0,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Other operational costs",
+        "Year": "2020-21",
+        "Amount": 0,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Total funding from government for operational costs",
+        "Year": "2020-21",
+        "Amount": 93,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Interest income",
+        "Year": "2020-21",
+        "Amount": 646,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Other income",
+        "Year": "2020-21",
+        "Amount": -15940,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Purchases of goods and materials",
+        "Year": "2020-21",
+        "Amount": 11993,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Rent, leasing and hiring expenses",
+        "Year": "2020-21",
+        "Amount": 383,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Freight and cartage expenses",
+        "Year": "2020-21",
+        "Amount": 984,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Motor vehicle running expenses",
+        "Year": "2020-21",
+        "Amount": 0,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Repair and maintenance expenses",
+        "Year": "2020-21",
+        "Amount": 660,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Other contract, subcontract and commission expenses",
+        "Year": "2020-21",
+        "Amount": 429,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Selected labour costs",
+        "Year": "2020-21",
+        "Amount": 4138,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Interest expenses",
+        "Year": "2020-21",
+        "Amount": 8311,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Depreciation and amortisation",
+        "Year": "2020-21",
+        "Amount": 19935,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Natural resource royalties expenses",
+        "Year": "2020-21",
+        "Amount": 1223,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Bad and doubtful debts",
+        "Year": "2020-21",
+        "Amount": 39,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Other expenses",
+        "Year": "2020-21",
+        "Amount": 8055,
+        "Sector": "Oil and gas extraction"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 198697,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 8156,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 1221,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Amount reimbursed under fuel tax credits",
+        "Year": "2020-21",
+        "Amount": 1506,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Other operational costs",
+        "Year": "2020-21",
+        "Amount": 123,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Total funding from government for operational costs",
+        "Year": "2020-21",
+        "Amount": 1629,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Interest income",
+        "Year": "2020-21",
+        "Amount": 408,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Other income",
+        "Year": "2020-21",
+        "Amount": 4005,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Purchases of goods and materials",
+        "Year": "2020-21",
+        "Amount": 20080,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Rent, leasing and hiring expenses",
+        "Year": "2020-21",
+        "Amount": 1215,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Freight and cartage expenses",
+        "Year": "2020-21",
+        "Amount": 5487,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Repair and maintenance expenses",
+        "Year": "2020-21",
+        "Amount": 1503,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Contract mining expenses",
+        "Year": "2020-21",
+        "Amount": 8717,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Other contract, subcontract and commission expenses",
+        "Year": "2020-21",
+        "Amount": 4811,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Selected labour costs",
+        "Year": "2020-21",
+        "Amount": 13704,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Interest expenses",
+        "Year": "2020-21",
+        "Amount": 2141,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Depreciation and amortisation",
+        "Year": "2020-21",
+        "Amount": 16151,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Insurance premiums",
+        "Year": "2020-21",
+        "Amount": 620,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Natural resource royalties expenses",
+        "Year": "2020-21",
+        "Amount": 13083,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Other expenses",
+        "Year": "2020-21",
+        "Amount": 17264,
+        "Sector": "Metal ore mining"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 7099,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 815,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 163,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Amount reimbursed under fuel tax credits",
+        "Year": "2020-21",
+        "Amount": 97,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Other operational costs",
+        "Year": "2020-21",
+        "Amount": 76,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Total funding from government for operational costs",
+        "Year": "2020-21",
+        "Amount": 173,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Interest income",
+        "Year": "2020-21",
+        "Amount": 12,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Other income",
+        "Year": "2020-21",
+        "Amount": -35,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Purchases of goods and materials",
+        "Year": "2020-21",
+        "Amount": 1371,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Rent, leasing and hiring expenses",
+        "Year": "2020-21",
+        "Amount": 226,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Freight and cartage expenses",
+        "Year": "2020-21",
+        "Amount": 878,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Repair and maintenance expenses",
+        "Year": "2020-21",
+        "Amount": 585,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Other contract, subcontract and commission expenses",
+        "Year": "2020-21",
+        "Amount": 209,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Selected labour costs",
+        "Year": "2020-21",
+        "Amount": 1364,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Interest expenses",
+        "Year": "2020-21",
+        "Amount": 93,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Depreciation and amortisation",
+        "Year": "2020-21",
+        "Amount": 774,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Natural resource royalties expenses",
+        "Year": "2020-21",
+        "Amount": 164,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Other expenses",
+        "Year": "2020-21",
+        "Amount": 1328,
+        "Sector": "Non-metallic mineral mining and quarrying"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 2745,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Service income",
+        "Year": "2020-21",
+        "Amount": 12763,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Rent, leasing and hiring income",
+        "Year": "2020-21",
+        "Amount": 341,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Amount reimbursed under fuel tax credits",
+        "Year": "2020-21",
+        "Amount": 130,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Other operational costs",
+        "Year": "2020-21",
+        "Amount": 162,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Total funding from government for operational costs",
+        "Year": "2020-21",
+        "Amount": 292,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Interest income",
+        "Year": "2020-21",
+        "Amount": 83,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Other income",
+        "Year": "2020-21",
+        "Amount": 2031,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Purchases of goods and materials",
+        "Year": "2020-21",
+        "Amount": 4273,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Rent, leasing and hiring expenses",
+        "Year": "2020-21",
+        "Amount": 412,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Freight and cartage expenses",
+        "Year": "2020-21",
+        "Amount": 534,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Repair and maintenance expenses",
+        "Year": "2020-21",
+        "Amount": 726,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Contract mining expenses",
+        "Year": "2020-21",
+        "Amount": 292,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Other contract, subcontract and commission expenses",
+        "Year": "2020-21",
+        "Amount": 357,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Selected labour costs",
+        "Year": "2020-21",
+        "Amount": 5278,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Interest expenses",
+        "Year": "2020-21",
+        "Amount": 393,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Depreciation and amortisation",
+        "Year": "2020-21",
+        "Amount": 1380,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Insurance premiums",
+        "Year": "2020-21",
+        "Amount": 127,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Natural resource royalties expenses",
+        "Year": "2020-21",
+        "Amount": 50,
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Other expenses",
+        "Year": "2020-21",
+        "Amount": 3469,
         "Sector": "Exploration and other mining support services"
     }
 ]

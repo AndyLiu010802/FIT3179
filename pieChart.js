@@ -1,9 +1,9 @@
 const chartPie = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Pie chart displaying income and expense data by year, type, and sector.",
-    "width": 400,
+    "width": 350,
     "height": 300,
-   "padding": { "top": 0, "left": 10, "right": 200, "bottom": 50 },
+    "padding": { "top": 20, "left": 10, "right": 20, "bottom": 50 },
     "background": "#585146",
     "data": {
       "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/incomeExpense.json",
@@ -22,36 +22,61 @@ const chartPie = {
           "name": "Select Year: "
         }
       },
+      
       {
-        "name": "selectedType",
-        "value": "income",
-        "bind": {
-          "input": "select",
-          "options": ["income", "expense"],
-          "labels": ["Income", "Expense"],
-          "name": "Select Type: "
-        }
-      },
-      {
-        "name": "selectedSector",
-        "value": "Coal mining",
+        "name": "selectedDescription",
+        "value": "Sales of goods",
         "bind": {
           "input": "select",
           "options": [
-            "Coal mining",
-            "Oil and gas extraction",
-            "Metal ore mining",
-            "Non-metallic mineral mining and quarrying",
-            "Exploration and other mining support services"
+            "Sales of goods",
+            "Service income",
+            "Rent, leasing and hiring income",
+            "Amount reimbursed under fuel tax credits",
+            "Other operational costs",
+            "Total funding from government for operational costs",
+            "Interest income",
+            "Other income",
+            "Purchases of goods and materials",
+            "Rent, leasing and hiring expenses",
+            "Freight and cartage expenses",
+            "Motor vehicle running expenses",
+            "Repair and maintenance expenses",
+            "Contract mining expenses",
+            "Other contract, subcontract and commission expenses",
+            "Selected labour costs",
+            "Interest expenses",
+            "Depreciation and amortisation",
+            "Insurance premiums",
+            "Natural resource royalties expenses",
+            "Bad and doubtful debts",
+            "Other expenses"
           ],
           "labels": [
-            "Coal mining",
-            "Oil and gas extraction",
-            "Metal ore mining",
-            "Non-metallic mineral mining and quarrying",
-            "Exploration and other mining support services"
+            "Sales of goods",
+            "Service income",
+            "Rent, leasing and hiring income",
+            "Amount reimbursed under fuel tax credits",
+            "Other operational costs",
+            "Total funding from government for operational costs",
+            "Interest income",
+            "Other income",
+            "Purchases of goods and materials",
+            "Rent, leasing and hiring expenses",
+            "Freight and cartage expenses",
+            "Motor vehicle running expenses",
+            "Repair and maintenance expenses",
+            "Contract mining expenses",
+            "Other contract, subcontract and commission expenses",
+            "Selected labour costs",
+            "Interest expenses",
+            "Depreciation and amortisation",
+            "Insurance premiums",
+            "Natural resource royalties expenses",
+            "Bad and doubtful debts",
+            "Other expenses"
           ],
-          "name": "Select Sector: "
+          "name": "Select Description: "
         }
       }
     ],
@@ -59,22 +84,24 @@ const chartPie = {
       {
         "filter": "datum.Year == selectedYear"
       },
+     
       {
-        "filter": "datum.Type == selectedType"
-      },
-      {
-        "filter": "datum.Sector == selectedSector"
+        "filter": "datum.Description == selectedDescription"
       }
     ],
     "mark": "arc",
+  
     "encoding": {
       "theta": { "field": "Amount", "type": "quantitative" },
-      "color": { "field": "Description", "type": "nominal" },
+      "color": { "field": "Sector", "type": "nominal",  "scale": {
+        "domain": ["Coal mining", "Oil and gas extraction", "Metal ore mining", "Non-metallic mineral mining and quarrying","Exploration and other mining support services"],
+        "range": ["#d3fc81", "#fc81a2", "#81fc9c", "#9181fc", "#81f6fc"] 
+      },},
+      "legend": null ,
       "tooltip": [
         { "field": "Description", "type": "nominal", "title": "Category" },
         { "field": "Amount", "type": "quantitative", "title": "Amount" },
         { "field": "Year", "type": "nominal", "title": "Year" },
-        { "field": "Type", "type": "nominal", "title": "Type" },
         { "field": "Sector", "type": "nominal", "title": "Sector" }
       ]
     }
@@ -83,4 +110,3 @@ const chartPie = {
   vegaEmbed('#pieChart', chartPie).then(function(result) {
   
   }).catch(console.error);
-  
