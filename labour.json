@@ -1,668 +1,122 @@
 [
     {
-        "Sector":"Coal mining",
+        "Year": "2020-21",
+        "Label": "Coal mining",
+        "Total Income ($m)": 53304,
+        "Total Expenses ($m)": 57034,
+        "Operating Profit Before Tax ($m)": -3741
+    },
+    {
+        "Year": "2020-21",
+        "Label": "Oil and gas extraction",
+        "Total Income ($m)": 42118,
+        "Total Expenses ($m)": 55158,
+        "Operating Profit Before Tax ($m)": -13063
+    },
+    {
+        "Year": "2020-21",
+        "Label": "Metal ore mining",
+        "Total Income ($m)": 214116,
+        "Total Expenses ($m)": 103555,
+        "Operating Profit Before Tax ($m)": 111796
+    },
+    {
+        "Year": "2020-21",
+        "Label": "Non-metallic mineral mining",
+        "Total Income ($m)": 8226,
+        "Total Expenses ($m)": 7248,
+        "Operating Profit Before Tax ($m)": 874
+    },
+    {
+        "Year": "2020-21",
+        "Label": "Exploration services",
+        "Total Income ($m)": 18255,
+        "Total Expenses ($m)": 16951,
+        "Operating Profit Before Tax ($m)": 1319
+    },
+    {
+        "Year": "2021-22",
+        "Label": "Coal mining",
+        "Total Income ($m)": 108734,
+        "Total Expenses ($m)": 67354,
+        "Operating Profit Before Tax ($m)": 41519
+    },
+    {
+        "Year": "2021-22",
+        "Label": "Oil and gas extraction",
+        "Total Income ($m)": 92009,
+        "Total Expenses ($m)": 58821,
+        "Operating Profit Before Tax ($m)": 33281
+    },
+    {
+        "Year": "2021-22",
+        "Label": "Metal ore mining",
+        "Total Income ($m)": 221086,
+        "Total Expenses ($m)": 115708,
+        "Operating Profit Before Tax ($m)": 107154
+    },
+    {
+        "Year": "2021-22",
+        "Label": "Non-metallic mineral mining",
+        "Total Income ($m)": 10492,
+        "Total Expenses ($m)": 8627,
+        "Operating Profit Before Tax ($m)": 1939
+    },
+    {
+        "Year": "2021-22",
+        "Label": "Exploration services",
+        "Total Income ($m)": 20388,
+        "Total Expenses ($m)": 19777,
+        "Operating Profit Before Tax ($m)": 766
+    },
+    {
+        "Year": "2022-23",
+        "Label": "Coal mining",
+        "Total Income ($m)": 163013,
+        "Total Expenses ($m)": 90574,
+        "Operating Profit Before Tax ($m)": 73315
+    },
+    {
+        "Year": "2022-23",
+        "Label": "Oil and gas extraction",
+        "Total Income ($m)": 149324,
+        "Total Expenses ($m)": 73499,
+        "Operating Profit Before Tax ($m)": 76562
+    },
+    {
+        "Year": "2022-23",
+        "Label": "Metal ore mining",
+        "Total Income ($m)": 205821,
+        "Total Expenses ($m)": 124998,
+        "Operating Profit Before Tax ($m)": 83041
+    },
+    {
+        "Year": "2022-23",
+        "Label": "Non-metallic mineral mining",
+        "Total Income ($m)": 21816,
+        "Total Expenses ($m)": 11778,
+        "Operating Profit Before Tax ($m)": 10427
+    },
+    {
+        "Year": "2022-23",
+        "Label": "Exploration services",
+        "Total Income ($m)": 21590,
+        "Total Expenses ($m)": 23150,
+        "Operating Profit Before Tax ($m)": -1440
+    },
+    {
         "Year":"2020-21",
-        "Amount":6005,
-        "Label":"Wages and salaries"
+        "Label":"Total Mining",
+        "Operating Profit Before Tax ($m)":0
     },
     {
-        "Sector":"Coal mining",
-        "Year":"2020-21",
-        "Amount":510,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Coal mining",
-        "Year":"2020-21",
-        "Amount":148,
-        "Label":"Workers' compensation premium\/costs"
-    },
-
-    {
-        "Sector":"Coal mining",
-        "Year":"2020-21",
-        "Amount":33,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Coal mining",
-        "Year":"2020-21",
-        "Amount":297,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Coal mining",
-        "Year":"2020-21",
-        "Amount":6994,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Coal mining",
         "Year":"2021-22",
-        "Amount":6156,
-        "Label":"Wages and salaries"
+        "Label":"Total Mining",
+        "Operating Profit Before Tax ($m)":0
     },
     {
-        "Sector":"Coal mining",
-        "Year":"2021-22",
-        "Amount":542,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Coal mining",
-        "Year":"2021-22",
-        "Amount":178,
-        "Label":"Workers' compensation premium\/costs"
-    },
-
-    {
-        "Sector":"Coal mining",
-        "Year":"2021-22",
-        "Amount":27,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Coal mining",
-        "Year":"2021-22",
-        "Amount":311,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Coal mining",
-        "Year":"2021-22",
-        "Amount":7215,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Coal mining",
         "Year":"2022-23",
-        "Amount":6832,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Coal mining",
-        "Year":"2022-23",
-        "Amount":633,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Coal mining",
-        "Year":"2022-23",
-        "Amount":226,
-        "Label":"Workers' compensation premium\/costs"
-    },
-   
-    {
-        "Sector":"Coal mining",
-        "Year":"2022-23",
-        "Amount":40,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Coal mining",
-        "Year":"2022-23",
-        "Amount":347,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Coal mining",
-        "Year":"2022-23",
-        "Amount":0,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2020-21",
-        "Amount":3772,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2020-21",
-        "Amount":355,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2020-21",
-        "Amount":12,
-        "Label":"Workers' compensation premium\/costs"
-    },
-
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2020-21",
-        "Amount":70,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2020-21",
-        "Amount":194,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2020-21",
-        "Amount":4403,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2021-22",
-        "Amount":3637,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2021-22",
-        "Amount":341,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2021-22",
-        "Amount":13,
-        "Label":"Workers' compensation premium\/costs"
-    },
-   
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2021-22",
-        "Amount":65,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2021-22",
-        "Amount":190,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2021-22",
-        "Amount":4246,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2022-23",
-        "Amount":4010,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2022-23",
-        "Amount":364,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2022-23",
-        "Amount":20,
-        "Label":"Workers' compensation premium\/costs"
-    },
-
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2022-23",
-        "Amount":60,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2022-23",
-        "Amount":216,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2022-23",
-        "Amount":0,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2020-21",
-        "Amount":12442,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2020-21",
-        "Amount":1121,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2020-21",
-        "Amount":142,
-        "Label":"Workers' compensation premium\/costs"
-    },
-   
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2020-21",
-        "Amount":97,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2020-21",
-        "Amount":691,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2020-21",
-        "Amount":14492,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2021-22",
-        "Amount":13660,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2021-22",
-        "Amount":1293,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2021-22",
-        "Amount":150,
-        "Label":"Workers' compensation premium\/costs"
-    },
-   
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2021-22",
-        "Amount":94,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2021-22",
-        "Amount":755,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2021-22",
-        "Amount":15952,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2022-23",
-        "Amount":15420,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2022-23",
-        "Amount":1495,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2022-23",
-        "Amount":119,
-        "Label":"Workers' compensation premium\/costs"
-    },
-    
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2022-23",
-        "Amount":109,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2022-23",
-        "Amount":920,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2022-23",
-        "Amount":0,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2020-21",
-        "Amount":1229,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2020-21",
-        "Amount":97,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2020-21",
-        "Amount":39,
-        "Label":"Workers' compensation premium\/costs"
-    },
-    
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2020-21",
-        "Amount":8,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2020-21",
-        "Amount":47,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2020-21",
-        "Amount":1419,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2021-22",
-        "Amount":1336,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2021-22",
-        "Amount":108,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2021-22",
-        "Amount":30,
-        "Label":"Workers' compensation premium\/costs"
-    },
-    
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2021-22",
-        "Amount":6,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2021-22",
-        "Amount":49,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2021-22",
-        "Amount":1529,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2022-23",
-        "Amount":1547,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2022-23",
-        "Amount":131,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2022-23",
-        "Amount":27,
-        "Label":"Workers' compensation premium\/costs"
-    },
-   
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2022-23",
-        "Amount":7,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2022-23",
-        "Amount":63,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2022-23",
-        "Amount":0,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2020-21",
-        "Amount":4825,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2020-21",
-        "Amount":391,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2020-21",
-        "Amount":62,
-        "Label":"Workers' compensation premium\/costs"
-    },
-   
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2020-21",
-        "Amount":18,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2020-21",
-        "Amount":199,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2020-21",
-        "Amount":5494,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2021-22",
-        "Amount":6059,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2021-22",
-        "Amount":497,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2021-22",
-        "Amount":86,
-        "Label":"Workers' compensation premium\/costs"
-    },
-   
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2021-22",
-        "Amount":17,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2021-22",
-        "Amount":256,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2021-22",
-        "Amount":6915,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2022-23",
-        "Amount":6607,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2022-23",
-        "Amount":586,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2022-23",
-        "Amount":99,
-        "Label":"Workers' compensation premium\/costs"
-    },
-
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2022-23",
-        "Amount":23,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2022-23",
-        "Amount":283,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2022-23",
-        "Amount":0,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2020-21",
-        "Amount":28273,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2020-21",
-        "Amount":2474,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2020-21",
-        "Amount":402,
-        "Label":"Workers' compensation premium\/costs"
-    },
-    
-    {
-        "Sector":"Total Mining",
-        "Year":"2020-21",
-        "Amount":226,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2020-21",
-        "Amount":1428,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2020-21",
-        "Amount":32803,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2021-22",
-        "Amount":30849,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2021-22",
-        "Amount":2782,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2021-22",
-        "Amount":457,
-        "Label":"Workers' compensation premium\/costs"
-    },
-   
-    {
-        "Sector":"Total Mining",
-        "Year":"2021-22",
-        "Amount":209,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2021-22",
-        "Amount":1560,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2021-22",
-        "Amount":35857,
-        "Label":"Total labour costs"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2022-23",
-        "Amount":34416,
-        "Label":"Wages and salaries"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2022-23",
-        "Amount":3208,
-        "Label":"Employer contributions into superannuation"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2022-23",
-        "Amount":491,
-        "Label":"Workers' compensation premium\/costs"
-    },
-    
-    {
-        "Sector":"Total Mining",
-        "Year":"2022-23",
-        "Amount":238,
-        "Label":"Fringe Benefits Tax"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2022-23",
-        "Amount":1831,
-        "Label":"Payroll tax"
-    },
-    {
-        "Sector":"Total Mining",
-        "Year":"2022-23",
-        "Amount":0,
-        "Label":"Total labour costs"
+        "Label":"Total Mining",
+        "Amount":0
     }
 ]

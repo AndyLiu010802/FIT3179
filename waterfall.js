@@ -12,40 +12,39 @@ var waterfall = {
     "params": [
 
       {
-        "name": "selectedSector",
-        "value": "Coal mining",
+        "name": "selectedYear",
+        "value": "2020-21",
         "bind": {
           "input": "select",
-          "options": ["Coal mining", "Oil and gas extraction", "Metal ore mining", "Non-metallic mineral mining and quarrying", "Exploration and other mining support services"],
+          "options": ["2020-21", "2021-22", "2022-23"],
           "name": "Select Sector: "
         }
       }
     ],
     "transform": [
       {
-        "filter": "datum.Label == 'Total labour costs' && datum.Sector == selectedSector"
+        "filter": "datum.Sector == selectedYear"
       },
-      {"window": [{"op": "sum", "field": "Amount", "as": "sum"}]},
+    {"window": [{"op": "sum", "field": "Amount", "as": "sum"}]},
     {"window": [{"op": "lead", "field": "Label", "as": "lead"}]},
     {
       "calculate": "datum.lead === null ? datum.Label : datum.lead",
       "as": "lead"
     },
     {
-      "calculate": "datum.Label === 'Year' ? 0 : datum.sum - datum.Amount",
+      "calculate": "datum.Label === 'Total Mining' ? 0 : datum.sum - datum.Amount",
       "as": "previous_sum"
     },
     {
-      "calculate": "datum.Label === 'Year' ? datum.sum : datum.Amount",
+      "calculate": "datum.Label === 'Total Mining' ? datum.sum : datum.Amount",
       "as": "Amount"
     },
     {
-      "calculate": "(datum.Label !== 'Wages and salaries' && datum.Label !== 'Year' && datum.Amount > 0 ? '+' : '') + datum.Amount",
+      "calculate": "(datum.Label !== 'Coal mining' && datum.Label !== 'Total Mining' && datum.Amount > 0 ? '+' : '') + datum.Amount",
       "as": "text_Amount"
     },
     {"calculate": "(datum.sum + datum.previous_sum) / 2", "as": "center"}
-    ],
-
+  ],
   "encoding": {
     "x": {
       "field": "Label",
@@ -67,7 +66,7 @@ var waterfall = {
         "color": {
           "condition": [
             {
-              "test": "datum.Label === 'Wages and salaries' || datum.Label === 'Year'",
+              "test": "datum.Label === 'Coal mining' || datum.Label === 'Total Mining'",
               "value": "#f7e0b6"
             },
             {"test": "datum.sum < datum.previous_sum", "value": "#f78a64"}
@@ -103,20 +102,17 @@ var waterfall = {
         "y": {"field": "center", "type": "quantitative"},
         "text": {"field": "text_Amount", "type": "nominal"},
         "color": {
-          "condition": [
-            {
-              "test": "datum.Label === 'Wages and salaries' || datum.Label === 'Year'",
-              "value": "#725a30"
-            }
-          ],
-          "value": "white"
+          "scale": {
+          "domain": ["Coal mining", "Oil and gas extraction", "Metal ore mining", "Non-metallic mineral mining", "Exploration services"],
+          "range": ["#d3fc81", "#fc81a2", "#81fc9c", "#9181fc", "#81f6fc"] 
+        },
         }
       }
     }
   ],
   "config": {"text": {"fontWeight": "bold", "color": "#404040"}}
 }
-  
+
 
   vegaEmbed('#waterfall', waterfall).then(function (result) {
 
