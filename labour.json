@@ -33,7 +33,7 @@
     {
         "Sector":"Coal mining",
         "Year":"2020-21",
-        "Amount":6994,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -70,7 +70,7 @@
     {
         "Sector":"Coal mining",
         "Year":"2021-22",
-        "Amount":7215,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -107,7 +107,7 @@
     {
         "Sector":"Coal mining",
         "Year":"2022-23",
-        "Amount":8078,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -144,7 +144,7 @@
     {
         "Sector":"Oil and gas extraction",
         "Year":"2020-21",
-        "Amount":4403,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -181,7 +181,7 @@
     {
         "Sector":"Oil and gas extraction",
         "Year":"2021-22",
-        "Amount":4246,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -218,7 +218,7 @@
     {
         "Sector":"Oil and gas extraction",
         "Year":"2022-23",
-        "Amount":4669,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -255,7 +255,7 @@
     {
         "Sector":"Metal ore mining",
         "Year":"2020-21",
-        "Amount":14492,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -292,7 +292,7 @@
     {
         "Sector":"Metal ore mining",
         "Year":"2021-22",
-        "Amount":15952,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -329,7 +329,7 @@
     {
         "Sector":"Metal ore mining",
         "Year":"2022-23",
-        "Amount":18063,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -366,7 +366,7 @@
     {
         "Sector":"Non-metallic mineral mining and quarrying",
         "Year":"2020-21",
-        "Amount":1419,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -403,7 +403,7 @@
     {
         "Sector":"Non-metallic mineral mining and quarrying",
         "Year":"2021-22",
-        "Amount":1529,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -440,7 +440,7 @@
     {
         "Sector":"Non-metallic mineral mining and quarrying",
         "Year":"2022-23",
-        "Amount":1775,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -477,7 +477,7 @@
     {
         "Sector":"Exploration and other mining support services",
         "Year":"2020-21",
-        "Amount":5494,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -514,7 +514,7 @@
     {
         "Sector":"Exploration and other mining support services",
         "Year":"2021-22",
-        "Amount":6915,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -551,7 +551,7 @@
     {
         "Sector":"Exploration and other mining support services",
         "Year":"2022-23",
-        "Amount":7598,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -588,7 +588,7 @@
     {
         "Sector":"Total Mining",
         "Year":"2020-21",
-        "Amount":32803,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -625,7 +625,7 @@
     {
         "Sector":"Total Mining",
         "Year":"2021-22",
-        "Amount":35857,
+        "Amount":0,
         "Label":"Total labour costs"
     },
     {
@@ -662,7 +662,7 @@
     {
         "Sector":"Total Mining",
         "Year":"2022-23",
-        "Amount":40183,
+        "Amount":0,
         "Label":"Total labour costs"
     }
 ]

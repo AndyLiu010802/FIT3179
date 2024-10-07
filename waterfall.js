@@ -3,7 +3,7 @@ var waterfall = {
     "width": 950,
     "height": 650,
     "data": {
-      "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/waterfall.json",
+      "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/labour.json",
       "format": {
         "type": "json"
       }
