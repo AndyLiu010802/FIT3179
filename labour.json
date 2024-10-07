@@ -17,12 +17,7 @@
         "Amount":148,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Coal mining",
-        "Year":"2020-21",
-        "Amount":6664,
-        "Label":"Selected labour costs"
-    },
+
     {
         "Sector":"Coal mining",
         "Year":"2020-21",
@@ -59,12 +54,7 @@
         "Amount":178,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Coal mining",
-        "Year":"2021-22",
-        "Amount":6877,
-        "Label":"Selected labour costs"
-    },
+
     {
         "Sector":"Coal mining",
         "Year":"2021-22",
@@ -101,12 +91,7 @@
         "Amount":226,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Coal mining",
-        "Year":"2022-23",
-        "Amount":7691,
-        "Label":"Selected labour costs"
-    },
+   
     {
         "Sector":"Coal mining",
         "Year":"2022-23",
@@ -143,12 +128,7 @@
         "Amount":12,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2020-21",
-        "Amount":4138,
-        "Label":"Selected labour costs"
-    },
+
     {
         "Sector":"Oil and gas extraction",
         "Year":"2020-21",
@@ -185,12 +165,7 @@
         "Amount":13,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2021-22",
-        "Amount":3992,
-        "Label":"Selected labour costs"
-    },
+   
     {
         "Sector":"Oil and gas extraction",
         "Year":"2021-22",
@@ -227,12 +202,7 @@
         "Amount":20,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Oil and gas extraction",
-        "Year":"2022-23",
-        "Amount":4394,
-        "Label":"Selected labour costs"
-    },
+
     {
         "Sector":"Oil and gas extraction",
         "Year":"2022-23",
@@ -269,12 +239,7 @@
         "Amount":142,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2020-21",
-        "Amount":13704,
-        "Label":"Selected labour costs"
-    },
+   
     {
         "Sector":"Metal ore mining",
         "Year":"2020-21",
@@ -311,12 +276,7 @@
         "Amount":150,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2021-22",
-        "Amount":15103,
-        "Label":"Selected labour costs"
-    },
+   
     {
         "Sector":"Metal ore mining",
         "Year":"2021-22",
@@ -353,12 +313,7 @@
         "Amount":119,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Metal ore mining",
-        "Year":"2022-23",
-        "Amount":17034,
-        "Label":"Selected labour costs"
-    },
+    
     {
         "Sector":"Metal ore mining",
         "Year":"2022-23",
@@ -395,12 +350,7 @@
         "Amount":39,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2020-21",
-        "Amount":1364,
-        "Label":"Selected labour costs"
-    },
+    
     {
         "Sector":"Non-metallic mineral mining and quarrying",
         "Year":"2020-21",
@@ -437,12 +387,7 @@
         "Amount":30,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2021-22",
-        "Amount":1474,
-        "Label":"Selected labour costs"
-    },
+    
     {
         "Sector":"Non-metallic mineral mining and quarrying",
         "Year":"2021-22",
@@ -479,12 +424,7 @@
         "Amount":27,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Non-metallic mineral mining and quarrying",
-        "Year":"2022-23",
-        "Amount":1705,
-        "Label":"Selected labour costs"
-    },
+   
     {
         "Sector":"Non-metallic mineral mining and quarrying",
         "Year":"2022-23",
@@ -521,12 +461,7 @@
         "Amount":62,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2020-21",
-        "Amount":5278,
-        "Label":"Selected labour costs"
-    },
+   
     {
         "Sector":"Exploration and other mining support services",
         "Year":"2020-21",
@@ -563,12 +498,7 @@
         "Amount":86,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2021-22",
-        "Amount":6642,
-        "Label":"Selected labour costs"
-    },
+   
     {
         "Sector":"Exploration and other mining support services",
         "Year":"2021-22",
@@ -605,12 +535,7 @@
         "Amount":99,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Exploration and other mining support services",
-        "Year":"2022-23",
-        "Amount":7292,
-        "Label":"Selected labour costs"
-    },
+
     {
         "Sector":"Exploration and other mining support services",
         "Year":"2022-23",
@@ -647,12 +572,7 @@
         "Amount":402,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Total Mining",
-        "Year":"2020-21",
-        "Amount":31148,
-        "Label":"Selected labour costs"
-    },
+    
     {
         "Sector":"Total Mining",
         "Year":"2020-21",
@@ -689,12 +609,7 @@
         "Amount":457,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Total Mining",
-        "Year":"2021-22",
-        "Amount":34088,
-        "Label":"Selected labour costs"
-    },
+   
     {
         "Sector":"Total Mining",
         "Year":"2021-22",
@@ -731,12 +646,7 @@
         "Amount":491,
         "Label":"Workers' compensation premium\/costs"
     },
-    {
-        "Sector":"Total Mining",
-        "Year":"2022-23",
-        "Amount":38115,
-        "Label":"Selected labour costs"
-    },
+    
     {
         "Sector":"Total Mining",
         "Year":"2022-23",

@@ -3,7 +3,7 @@ var waterfall = {
     "width": 950,
     "height": 650,
     "data": {
-     "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/waterfall.json",
+      "url": "https://raw.githubusercontent.com/AndyLiu010802/FIT3179/main/waterfall.json",
       "format": {
         "type": "json"
       }
@@ -31,35 +31,34 @@ var waterfall = {
     "transform": [
       {
         "filter": "datum.Year == selectedYear && datum.Sector == selectedSector"
-      }
-    ],
-    "transform": [
-    {"window": [{"op": "sum", "field": "amount", "as": "sum"}]},
-    {"window": [{"op": "lead", "field": "label", "as": "lead"}]},
+      },
+      {"window": [{"op": "sum", "field": "Amount", "as": "sum"}]},
+    {"window": [{"op": "lead", "field": "Label", "as": "lead"}]},
     {
-      "calculate": "datum.lead === null ? datum.label : datum.lead",
+      "calculate": "datum.lead === null ? datum.Label : datum.lead",
       "as": "lead"
     },
     {
-      "calculate": "datum.label === 'End' ? 0 : datum.sum - datum.amount",
+      "calculate": "datum.Label === 'Total labour costs' ? 0 : datum.sum - datum.Amount",
       "as": "previous_sum"
     },
     {
-      "calculate": "datum.label === 'End' ? datum.sum : datum.amount",
-      "as": "amount"
+      "calculate": "datum.Label === 'Total labour costs' ? datum.sum : datum.Amount",
+      "as": "Amount"
     },
     {
-      "calculate": "(datum.label !== 'Begin' && datum.label !== 'End' && datum.amount > 0 ? '+' : '') + datum.amount",
-      "as": "text_amount"
+      "calculate": "(datum.Label !== 'Wages and salaries' && datum.Label !== 'Total labour costs' && datum.Amount > 0 ? '+' : '') + datum.Amount",
+      "as": "text_Amount"
     },
     {"calculate": "(datum.sum + datum.previous_sum) / 2", "as": "center"}
-  ],
+    ],
+
   "encoding": {
     "x": {
-      "field": "label",
+      "field": "Label",
       "type": "ordinal",
       "sort": null,
-      "axis": {"labelAngle": 0, "title": "Months"}
+      "axis": {"LabelAngle": 0, "title": "Months"}
     }
   },
   "layer": [
@@ -75,7 +74,7 @@ var waterfall = {
         "color": {
           "condition": [
             {
-              "test": "datum.label === 'Begin' || datum.label === 'End'",
+              "test": "datum.Label === 'Wages and salaries' || datum.Label === 'Total labour costs'",
               "value": "#f7e0b6"
             },
             {"test": "datum.sum < datum.previous_sum", "value": "#f78a64"}
@@ -99,7 +98,7 @@ var waterfall = {
       }
     },
     {
-      "mark": {"type": "text", "dy": {"expr": "datum.amount >= 0 ? -4 : 4"}, "baseline": {"expr": "datum.amount >= 0 ? 'bottom' : 'top'"}},
+      "mark": {"type": "text", "dy": {"expr": "datum.Amount >= 0 ? -4 : 4"}, "baseline": {"expr": "datum.Amount >= 0 ? 'bottom' : 'top'"}},
       "encoding": {
         "y": {"field": "sum", "type": "quantitative"},
         "text": {"field": "sum", "type": "nominal"}
@@ -109,11 +108,11 @@ var waterfall = {
       "mark": {"type": "text", "fontWeight": "bold", "baseline": "middle"},
       "encoding": {
         "y": {"field": "center", "type": "quantitative"},
-        "text": {"field": "text_amount", "type": "nominal"},
+        "text": {"field": "text_Amount", "type": "nominal"},
         "color": {
           "condition": [
             {
-              "test": "datum.label === 'Begin' || datum.label === 'End'",
+              "test": "datum.Label === 'Wages and salaries' || datum.Label === 'Total labour costs'",
               "value": "#725a30"
             }
           ],
@@ -124,6 +123,7 @@ var waterfall = {
   ],
   "config": {"text": {"fontWeight": "bold", "color": "#404040"}}
 }
+  
 
   vegaEmbed('#waterfall', waterfall).then(function (result) {
 

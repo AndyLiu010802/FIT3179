@@ -1,6 +1,6 @@
 const chartPie = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Pie chart displaying income and expense data by year, type, and sector.",
+    "description": "Pie chart",
     "width": 350,
     "height": 300,
     "padding": { "top": 20, "left": 140, "right": 20, "bottom": 80 },

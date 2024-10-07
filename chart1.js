@@ -10,7 +10,7 @@ const chartSpec1 = (selectedKey, selectedRegion1) => {
 
     return {
         "$schema": "https://vega.github.io/schema/vega/v5.json",
-        "description": "Radar chart using keys as radial points and values as radial distances",
+        "description": "Radar chart",
         "width": 560,
         "height": 470,
         "padding": { "top": 150, "left": 200, "right": 50, "bottom": 50 },

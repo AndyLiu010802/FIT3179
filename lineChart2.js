@@ -1,6 +1,6 @@
 const chartLine2 = {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
-    "description": "A basic stacked area chart example with tooltip, legend, and smooth interpolation.",
+    "description": "stacked area chart",
     "width": 550,
     "height": 400,
     "padding": 5,
