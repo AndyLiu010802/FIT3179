@@ -1283,358 +1283,85 @@
     {
         "Description": "Employment at end June",
         "Year": "2020-21",
-        "Amount": 36823,
+        "Amount": 12842,
         "Type": "other",
-        "Sector": "Iron ore mining"
+        "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Employment at end June",
         "Year": "2021-22",
-        "Amount": 0,
+        "Amount": 12982,
         "Type": "other",
-        "Sector": "Iron ore mining"
+        "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Employment at end June",
         "Year": "2022-23",
-        "Amount": 0,
+        "Amount": 15640,
         "Type": "other",
-        "Sector": "Iron ore mining"
+        "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Sales of goods",
         "Year": "2020-21",
-        "Amount": 148858,
+        "Amount": 7099,
         "Type": "income",
-        "Sector": "Iron ore mining"
+        "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Sales of goods",
         "Year": "2021-22",
-        "Amount": 0,
+        "Amount": 9660,
         "Type": "income",
-        "Sector": "Iron ore mining"
+        "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
         "Description": "Sales of goods",
         "Year": "2022-23",
-        "Amount": 0,
+        "Amount": 19612,
         "Type": "income",
-        "Sector": "Iron ore mining"
+        "Sector": "Non-metallic mineral mining and quarrying"
     },
     {
-        "Description": "Interest income",
+        "Description": "Employment at end June",
         "Year": "2020-21",
-        "Amount": 273,
+        "Amount": 40674,
+        "Type": "other",
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Employment at end June",
+        "Year": "2021-22",
+        "Amount": 45294,
+        "Type": "other",
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Employment at end June",
+        "Year": "2022-23",
+        "Amount": 49168,
+        "Type": "other",
+        "Sector": "Exploration and other mining support services"
+    },
+    {
+        "Description": "Sales of goods",
+        "Year": "2020-21",
+        "Amount": 2745,
         "Type": "income",
-        "Sector": "Iron ore mining"
+        "Sector": "Exploration and other mining support services"
     },
     {
-        "Description": "Interest income",
+        "Description": "Sales of goods",
         "Year": "2021-22",
-        "Amount": 0,
+        "Amount": 3642,
         "Type": "income",
-        "Sector": "Iron ore mining"
+        "Sector": "Exploration and other mining support services"
     },
     {
-        "Description": "Interest income",
+        "Description": "Sales of goods",
         "Year": "2022-23",
-        "Amount": 0,
+        "Amount": 3706,
         "Type": "income",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Other income",
-        "Year": "2020-21",
-        "Amount": 2048,
-        "Type": "income",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Other income",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Other income",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "income",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Purchases of goods and materials",
-        "Year": "2020-21",
-        "Amount": 7573,
-        "Type": "other",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Purchases of goods and materials",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "other",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Purchases of goods and materials",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "other",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Freight and cartage expenses",
-        "Year": "2020-21",
-        "Amount": 4178,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Freight and cartage expenses",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Freight and cartage expenses",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Repair and maintenance expenses",
-        "Year": "2020-21",
-        "Amount": 789,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Repair and maintenance expenses",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Repair and maintenance expenses",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Contract mining expenses",
-        "Year": "2020-21",
-        "Amount": 4197,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Contract mining expenses",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Contract mining expenses",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Other contract, subcontract and commission expenses",
-        "Year": "2020-21",
-        "Amount": 3710,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Other contract, subcontract and commission expenses",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Other contract, subcontract and commission expenses",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Selected labour costs",
-        "Year": "2020-21",
-        "Amount": 6861,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Selected labour costs",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Selected labour costs",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Interest expenses",
-        "Year": "2020-21",
-        "Amount": 1300,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Interest expenses",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Interest expenses",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Depreciation and amortisation",
-        "Year": "2020-21",
-        "Amount": 8981,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Depreciation and amortisation",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Depreciation and amortisation",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Insurance premiums",
-        "Year": "2020-21",
-        "Amount": 296,
-        "Type": "other",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Insurance premiums",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "other",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Insurance premiums",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "other",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Natural resource royalties expenses",
-        "Year": "2020-21",
-        "Amount": 11416,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Natural resource royalties expenses",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Natural resource royalties expenses",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Bad and doubtful debts",
-        "Year": "2020-21",
-        "Amount": 11,
-        "Type": "other",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Bad and doubtful debts",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "other",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Bad and doubtful debts",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "other",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Other expenses",
-        "Year": "2020-21",
-        "Amount": 11398,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Other expenses",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Other expenses",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "expense",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Capital work done for own use",
-        "Year": "2020-21",
-        "Amount": 82,
-        "Type": "other",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Capital work done for own use",
-        "Year": "2021-22",
-        "Amount": 0,
-        "Type": "other",
-        "Sector": "Iron ore mining"
-    },
-    {
-        "Description": "Capital work done for own use",
-        "Year": "2022-23",
-        "Amount": 0,
-        "Type": "other",
-        "Sector": "Iron ore mining"
+        "Sector": "Exploration and other mining support services"
     }
 ]
