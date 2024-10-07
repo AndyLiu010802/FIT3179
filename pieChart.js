@@ -1,7 +1,6 @@
 const chartPie = {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Pie chart.",
-    
+    "description": "Pie chart displaying income and expense data by year, type, and sector.",
     "width": 450,
     "height": 400,
     "background": "#585146",
@@ -24,21 +23,33 @@ const chartPie = {
       },
       {
         "name": "selectedType",
-        "value": "Income",
+        "value": "income",
         "bind": {
           "input": "select",
-          "options": ["Income", "Expense"],
-          "labels": ["Income", "Expense"],
+          "options": ["income", "expense", "other"],
+          "labels": ["Income", "Expense", "Other"],
           "name": "Select Type: "
         }
       },
       {
         "name": "selectedSector",
-        "value": "Coal mining",  
+        "value": "Coal mining",
         "bind": {
           "input": "select",
-          "options": ["Coal mining", "Oil and gas extraction", "Metal ore mining", "Non-metallic mineral mining and quarrying", "Exploration and other mining support services"],
-          "labels": ["Coal mining", "Oil and gas extraction", "Metal ore mining", "Non-metallic mineral mining and quarrying", "Exploration and other mining support services"],
+          "options": [
+            "Coal mining",
+            "Oil and gas extraction",
+            "Metal ore mining",
+            "Non-metallic mineral mining and quarrying",
+            "Exploration and other mining support services"
+          ],
+          "labels": [
+            "Coal mining",
+            "Oil and gas extraction",
+            "Metal ore mining",
+            "Non-metallic mineral mining and quarrying",
+            "Exploration and other mining support services"
+          ],
           "name": "Select Sector: "
         }
       }
@@ -56,16 +67,17 @@ const chartPie = {
     ],
     "mark": "arc",
     "encoding": {
-      "theta": {"field": "Amount", "type": "quantitative"},
-      "color": {"field": "Description", "type": "nominal"},
+      "theta": { "field": "Amount", "type": "quantitative" },
+      "color": { "field": "Description", "type": "nominal" },
       "tooltip": [
-        {"field": "Description", "type": "nominal", "title": "Category"},
-        {"field": "Amount", "type": "quantitative", "title": "Amount"},
-        {"field": "Year", "type": "nominal", "title": "Year"},
-        {"field": "Type", "type": "nominal", "title": "Type"}
+        { "field": "Description", "type": "nominal", "title": "Category" },
+        { "field": "Amount", "type": "quantitative", "title": "Amount" },
+        { "field": "Year", "type": "nominal", "title": "Year" },
+        { "field": "Type", "type": "nominal", "title": "Type" },
+        { "field": "Sector", "type": "nominal", "title": "Sector" }
       ]
     }
-  }
+  };
   
   vegaEmbed('#pieChart', chartPie).then(function(result) {
   
